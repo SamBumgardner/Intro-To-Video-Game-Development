@@ -1,5 +1,6 @@
 # CSC 303 - Introductory Video Game Development for Designers and Programmers
 ## Course Policy Statement - Spring 2017
+NOTE: Credit for the original syllabus this was based on goes to [@ChadKillingsworth](https://github.com/ChadKillingsworth).
 
 **Office:** No campus office  
 **Email:** Bumgardner125@live.missouristate.edu  
@@ -10,17 +11,16 @@
 Hands-on introduction to video game development, emphasizing the application of general computer science knowledge to the process of making video games.
 
 ### Lectures
-Lectures will be M-W for the first 2 weeks. After that, Fridays will be a lab day
-in Cheek 213 unless otherwise announced. See [attendance](#Attendance).
+Lectures will be M-W in Cheek 210. See [attendance](#Attendance).
 
 ### Learning Outcomes
 Upon completion of the course, students should:
 
  1. Know and comfortably use git workflow through github.
- 2. Have a solid understanding of the Haxe programming language and thoroughly understand differences and similarities between it and the other languages they know.
- 4. Understand the purpose of a game engine.
- 5. 
- 6. 
+ 2. Have a solid understanding of the Haxe programming language and the differences and similarities between it and the other programming languages.
+ 3. Understand the purpose of a game engine.
+ 4. Be able to identify core responsibilities of a game engine.
+ 5. Understand how to apply existing computer science-related knowledge to the process of making games.
 
 ### Textbooks
 None.
@@ -30,23 +30,33 @@ Attendance in the class will account for 10% of your grade. I'll try to put all 
 
 If you know you will have to miss a class in advance, then please let me know in an email and we'll work something out. 
 
-If some terrible catastrophe caused you to miss a class, please also let me know in an email. My goal isn't to punish people for having bad luck, it's just to encourage everyone to give their best effort to get in the classroom on a regular basis.
+If some terrible catastrophe caused you to miss a class, please also let me know in an email. My goal isn't to punish people for having bad luck; I just want to encourage everyone to give their best effort to get in the classroom on a regular basis.
 
 ### Tentative Outline
+Weeks 1-4:
+ * Introduction to class
+ * How to make Git (and GitHub) work for you!
+ * What are the responsibilities of a game engine?
+ * How to code in Haxe.
+ * How to work with HaxeFlixel.
 
+Weeks 4-8:
+ * Discuss how to implement various game systems.
+ * Talk about other game engines, their features, and some of the implementation details behind them.
+ * Work on [final project](project.md)
 
 
 ### Grading
 
 Component                  | Percentage
 -------------------------- | -------------------
-Assignments and Exercises  | 40% (Drop 1 lowest)
-Final Project              |                 30%
+Assignments and Exercises  | 50% (Drop 1 lowest)
+[Final Project](project.md)              |                 40%
 Attendance                 |                 10%
 
-The assignment grading scheme drops the lowest score when determining the final score. It is expected that “ordinary” disasters such as accidentally misnamed files, network failures at the assignment due time, illness, etc. will be accommodated by these dropped grades. Additional extensions are not likely unless caused by “severe” disaster.
+Each student's lowest-grade assignment will be dropped from their final grade at the end of the semester. This policy is in place to give students some measure of protection against unexpected disasters, not to give everyone one "free" assignment. Every graded assignment was assigned for a very particular purpose, so I recommend that you do *not* just pick an assignment to skip.
 
-For the purposes of determining a grade for the course, the grades from exams, assignments, and projects will be combined as shown above. The course grade will be determined by totalling the score of all exams and assignments (minus lowest two assignment scores) and dividing it by the total possible score for the class. Letter grades will be assigned as follows:
+Letter grades will be assigned as follows:
 
  * 90% and above is an A
  * 80% and above is a B
@@ -54,12 +64,12 @@ For the purposes of determining a grade for the course, the grades from exams, a
  * 60% and above is a D
  * below 60% is an F
 
-The numeric requirements for letter grades may be lowered to reflect a curve but will not be raised.
+I don't expect there to be any grade-curving in this class, but I reserve the right to do so if I consider it necessary.
 
-An “W” grade for this course cannot be assigned after the [deadline in the academic calendar](http://calendar.missouristate.edu/viewevent.aspx?eventid=87835&occurrenceid=155456).
+An “W” grade for this course cannot be assigned after the [deadline in the academic calendar](http://calendar.missouristate.edu/event/91738/164668).
 
 ### Examinations
-There will be none.
+None.
 
 ### Important Notes on Grading
 The best way to improve your course grade is to submit assignments on time.
