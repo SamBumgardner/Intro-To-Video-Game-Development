@@ -4,3 +4,5 @@ As a class exercise, we will each use git and GitHub to add our own little autob
 
 ## Example_Name 
 Hello, I'm Example_Name, and I came to school to learn how to tie my shoes!
+
+I'm Cameron. I like to sleep, play video games, and play ultimate frisbee. This is sentence three.
