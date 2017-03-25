@@ -17,6 +17,7 @@
  * [HaxeFlixel Demos](http://haxeflixel.com/demos/)
  * [HaxeFlixel API](http://api.haxeflixel.com/flixel/)
  * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html)
+ * [Games From Scratch (In Java)](http://fivedots.coe.psu.ac.th/~ad/jg/)
 
 ### Git and GitHub
  * [Git GUI Client - SourceTree](https://www.atlassian.com/software/sourcetree/overview/)
