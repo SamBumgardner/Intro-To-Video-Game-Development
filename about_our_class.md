@@ -19,12 +19,12 @@ Cat enthusiast, video game lover, motorcycle rider.
 Appreciates Andy's custard, Hurts donuts, the Oxford comma, and long walks on the beach.
 Moving to Wichita after graduation for a job with Koch Industries, and just got approved for my apartment 3-22.
 
-##Woollums_Dillon
+## Woollums_Dillon
 Hello, I'm Dillon Woollums, an undergraduate senior in Computer Science here at Missouri State University. 
 I'm here to learn how to apply computer science and game design principles to actually making a game. 
 Some of my favorite games are Portal 2, Pokemon Gold/Silver/Crystal, Final Fantasy 7, and F-Zero GX.
 
 ## Keith Cissell
 Hello, I'm Keith Cissell, and I am studying computer science with a goal to aid space research 
-and exploration. I am mostly interested in artificial intelegence and robotics. Idealy, I want to 
+and exploration. I am mostly interested in artificial intelegence and robotics. Ideally, I want to 
 create a robot that is able to scout out planets / clusters to find resources and habitable areas.
