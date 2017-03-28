@@ -43,6 +43,7 @@ git's structure can be leveraged to make building and managing code easier.
 6. Paste the copied URL into the Source Path / URL box
 7. Name the new remote "upstream"
 
+
 ### Updating a Local Repository
 
 #### If your repository is a fork of a different repository
@@ -83,10 +84,55 @@ also be updated)*
 
 Now your local repository is up-to-date!
 
-### Local Work Cycle
+
+### Working on a local repository
+
+*Note: The following instructions assume that your local repository is up-to-date.*
+
+#### If you want to begin developing a new feature (or set of related features)
+
+1. Checkout whatever local branch you want your new feature to be developed from.
+     * If you're following the workflow described here, you should probably use your local "master" as your base branch
+2. Click the "Branch" button in the top section of the SourceTree window
+3. Pick a name for the new branch that briefly describes what features you plan to develop on it
+     * I believe the preferred branch-naming style is to use all lower-case words connected by hyphens, like "lecture-notes"
+4. Click the "Create Branch" button in the bottom-right corner of the pop-up window.
+5. Begin the three-part cycle of work, described below
+
+#### If you want to continue developing an already-existing feature branch
+
+1. Checkout the local version of the branch that you'd like to develop
+     * If you don't have a local version of the branch, simply double-click the branch you'd like to checkout in SourceTree's Log/History graph
+2. Begin the three-part cycle of work, described below
+
+#### The three-part cycle of work
+
+1. Make changes to your local files
+     * Remember that you can find you local files by navigating to whatever directory you originally cloned them into, 
+	 or by right clicking your local repository's box on the left side of SourceTree and selecting the "Show in Explorer" option
+2. Stage changes to your local files
+     1. First, click on the "File Status" tab at the bottom of the SourceTree window
+     2. Select all files you would like to stage from the "Unstaged files" section
+          * Hunks and lines of code may be committed instead of the whole file. To do this, click on the file's name in the "Unstaged files" section,
+            and select particular hunks or lines of code to stage from the selections that appear on the right side of the SourceTree window
+     3. Click the "Stage Selected" button on the right side of the "Unstaged files" section's header
+     4. Check that *only* the content you wanted to stage is now in the "Staged files" section
+          * files/hunks/lines may be unstaged through a process very similar to staging them. Just make sure you press the "Unstage" buttons instead
+3. Commit your staged changes 
+     1. Type out a commit message in the large text field at the bottom of the SourceTree window
+          1. Type a short (80 char. max) message outlining the overall result of the commit
+		  2. Press enter twice (for a double line break), then enter any additional information you'd like to include about the commit
+     2. Do one last check that everything is correct
+     3. Click the "Commit" button in the bottom-right corner of the SourceTree window
+4. Repeat steps 1-3 as desired, move on when finished
+5. Click the "Push" button in the top section of the SourceTree window
+6. Make sure that the "Push to repository" drop-down box at the top of the pop-up window says "origin".
+7. Find the name of the branch you've been working on locally, and put a check the box to the left of its name
+     * After you've done this once for SourceTree, you probably won't have to do it again
+8. Click the "Push" button in the bottom-right corner of the pop-up window
+     * WARNING: If at all possible, avoid pushing incorrect commits. They become much more difficult to fix after being pushed into a remote repository.
 
 
-
-### Making Pull Requests/Merging in Work
+### Making Pull Requests
 
 
