@@ -33,3 +33,8 @@ create a robot that is able to scout out planets / clusters to find resources an
 Hello, I'm Mark Godsy, and I love video games! I came to Missouri State to study Computer Science
 and will graduate this semester. My favorite types of video games are RPGs, which includes aRPGs(Diablo),
  cRPGs(Baldur's Gate/Pillars of Eternity), and jRPG's(Final Fantasy, Persona). I am currently playing through Persona 4 and loving it!
+
+## Caleb Breslin
+The dream has always been to be involved in game design. Computer Science is just a starting point for me. 
+Enrolled in this class expecting to learn the Unreal Engine, but I'm interested to see what Haxe holds in
+store. Absolute favorite game has to be Uncharted 3, but I'm in love with the entire franchise.
