@@ -28,3 +28,8 @@ Some of my favorite games are Portal 2, Pokemon Gold/Silver/Crystal, Final Fanta
 Hello, I'm Keith Cissell, and I am studying computer science with a goal to aid space research 
 and exploration. I am mostly interested in artificial intelegence and robotics. Ideally, I want to 
 create a robot that is able to scout out planets / clusters to find resources and habitable areas.
+
+## Mark Godsy
+Hello, I'm Mark Godsy, and I love video games! I came to Missouri State to study Computer Science
+and will graduate this semester. My favorite types of video games are RPGs, which includes aRPGs(Diablo),
+ cRPGs(Baldur's Gate/Pillars of Eternity), and jRPG's(Final Fantasy, Persona). I am currently playing through Persona 4 and loving it!
