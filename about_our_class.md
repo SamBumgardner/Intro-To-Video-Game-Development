@@ -28,3 +28,8 @@ Some of my favorite games are Portal 2, Pokemon Gold/Silver/Crystal, Final Fanta
 Hello, I'm Keith Cissell, and I am studying computer science with a goal to aid space research 
 and exploration. I am mostly interested in artificial intelegence and robotics. Ideally, I want to 
 create a robot that is able to scout out planets / clusters to find resources and habitable areas.
+
+## Caleb Breslin
+The dream has always been to be involved in game design. Computer Science is just a starting point for me. 
+Enrolled in this class expecting to learn the Unreal Engine, but I'm interested to see what Haxe holds in
+store. Absolute favorite game has to be Uncharted 3, but I'm in love with the entire franchise.
