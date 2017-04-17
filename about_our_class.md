@@ -38,3 +38,6 @@ and will graduate this semester. My favorite types of video games are RPGs, whic
 The dream has always been to be involved in game design. Computer Science is just a starting point for me. 
 Enrolled in this class expecting to learn the Unreal Engine, but I'm interested to see what Haxe holds in
 store. Absolute favorite game has to be Uncharted 3, but I'm in love with the entire franchise.
+
+## Trenton Nale
+Not much to tell:  Sophomore in the CompSci program, love reading and a pretty broad array of games, and I enrolled in this class because I hoped ot learn some principles that might benefit me if I ever get around to actually building one of the dozens of game ideas I have rolling around.  One unusual bit is that I am getting a minor in Philosophy as well.
