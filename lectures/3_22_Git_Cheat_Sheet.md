@@ -130,9 +130,31 @@ Now your local repository is up-to-date!
 7. Find the name of the branch you've been working on locally, and put a check the box to the left of its name
      * After you've done this once for SourceTree, you probably won't have to do it again
 8. Click the "Push" button in the bottom-right corner of the pop-up window
-     * WARNING: If at all possible, avoid pushing incorrect commits. They become much more difficult to fix after being pushed into a remote repository.
+     * **WARNING:** If at all possible, avoid pushing incorrect commits. They become much more difficult to fix after being pushed into a remote repository.
 
 
 ### Making Pull Requests
 
+*Note: The following instructions assume that your repository/fork's feature branch has had all relevant changes pushed to it from your local machine.*
 
+#### If you want to merge changes from your fork's feature branch into the original repository's master branch
+
+1. Navigate to your fork on GitHub.
+2. If you recently pushed commits to that fork, GitHub may give you a button to automatically set up a pull request. If so, click on it! Otherwise, you should follow these steps:
+     * Click on the "New pull request" button on the fork's main page.
+     * On the new "Open a pull request" page, ensure that the "base fork" drop-down menu has the original repository selected, 
+     and the "base" drop-down menu next to it has "master" (or whatever branch you're wanting to change) selected.
+     * Check that the "head fork" drop-down menu shows your fork's name.
+     * Set the "compare" drop-down menu to select your feature branch.
+     * Click the green "Open pull request" button.
+3. If necessary, change the title of the pull request to reflect the changes that it's bringing to the main repository.
+4. In the body of the pull request, include the following information:
+     * An overview of what merging the pull request will do to the main repository.
+     * Why merging the pull request is a good idea.
+     * A list of individual features included in the pull request.
+     * Any special notes about the pull request.
+     * Information about how to test it (if necessary).
+5. For our class, make sure to request a review from your assigned reviewer.
+6. Preview the pull request and fix any issues you notice.
+7. Click the green button below to submit the pull request for review!
+     
