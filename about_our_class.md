@@ -19,6 +19,7 @@ Cat enthusiast, video game lover, motorcycle rider.
 Appreciates Andy's custard, Hurts donuts, the Oxford comma, and long walks on the beach.
 Moving to Wichita after graduation for a job with Koch Industries, and just got approved for my apartment 3-22.
 
+
 ## Woollums_Dillon
 Hello, I'm Dillon Woollums, an undergraduate senior in Computer Science here at Missouri State University. 
 I'm here to learn how to apply computer science and game design principles to actually making a game. 
@@ -44,3 +45,8 @@ Not much to tell:  Sophomore in the CompSci program, love reading and a pretty b
 enrolled in this class because I hoped ot learn some principles that might benefit me if I ever get around
 to actually building one of the dozens of game ideas I have rolling around.  One unusual bit is that I am
 getting a minor in Philosophy as well.
+
+## Samuel Faulkner
+Player of video games, coder of things.
+Born in Indiana, raised in Ohio, now in Missouri.
+Working on 6 term projects this semester...yay...
