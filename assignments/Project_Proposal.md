@@ -6,7 +6,7 @@ In this assignment, you will draft and submit the initial proposal for your fina
 
 You have two options for your final project:
  1. Create your own game using Haxe and the HaxeFlixel library.
- 2. Select additional feature(s) to implement in [our Mario-like platformer](https://github.com/SamBumgardner/csc-303-platformer).
+ 2. Select additional feature(s) to implement in [our Castlevania-like platformer](https://github.com/SamBumgardner/csc-303-platformer-2018).
 
 **Due Date:** 4/13/2018 @ 11:59 PM
 
