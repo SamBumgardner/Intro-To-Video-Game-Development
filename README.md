@@ -29,3 +29,6 @@
  * [Haxe](https://haxe.org/download/)
  * [HaxeFlixel](http://haxeflixel.com/documentation/getting-started/)
  * [Suggested IDEs](https://haxe.org/documentation/introduction/editors-and-ides.html)
+
+### Class Discord
+* https://discord.gg/RkkH8qW
