@@ -6,9 +6,9 @@ In this assignment, you will draft and submit the initial proposal for your fina
 
 You have two options for your final project:
  1. Create your own game using Haxe and the HaxeFlixel library.
- 2. Select additional feature(s) to implement in [our Mario-like platformer](https://github.com/SamBumgardner/csc-303-platformer).
+ 2. Select additional feature(s) to implement in [our Mario-like platformer](https://github.com/SamBumgardner/csc-303-platformer-2018).
 
-**Due Date:** 4/23/2017 @ 11:59 PM
+**Due Date:** 4/20/2018 @ 11:59 PM
 
 **Deliverables:** 1 markdown file containing your project proposal, named `Project_Proposal.md`. See below for a list of expected content.
 
@@ -23,7 +23,7 @@ You have two options for your final project:
  * Lose condition
  * How the player interacts with the game
  * List of game features (similar to the feature list we drafted for our platformer game)
- * Realistic goals/expectations for 3 weeks of work on the project
+ * Realistic goals/expectations for 4 weeks of work on the project
  * (Optional) Concept image for game.
  
 **Expected Content (additional features):**
