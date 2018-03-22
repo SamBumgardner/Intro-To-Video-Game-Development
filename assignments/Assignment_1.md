@@ -34,3 +34,4 @@ Grading criteria is as follows:
  * Write up a thoughtful reflection: 3 pts.
 
 1 point will be deducted for each day that the assignment is late.
+
