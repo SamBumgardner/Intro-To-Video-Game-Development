@@ -6,10 +6,11 @@
 ## Course Content
 
 ### Assignments
+ * [Assignment 1](./assignments/Assignment_1.md)
+ * [Assignment 2](./assignments/Assignment_2.md)
+ * [Assignment 3](./assignments/Assignment_3.md)
+ * [Assignment 4](./assignments/Assignment_4.md)
  * [Final Project](project.md)
-
-### Lecture Notes
- * Coming Soon!
 
 ### Reference Material
  * [Haxe Manual](https://haxe.org/manual/introduction.html)
