@@ -10,7 +10,7 @@ along the way where you must communicate with me about your project's progress.
  * Checkpoint 2 - Review progress, determine reasonable changes to goal: 4/28/2017 - 5% of assignment grade
  * Checkpoint 3 - Review progress, finalize end-goal for project:        5/5/2017  - 5% of assignment grade
  * Checkpoint 4 - Panic check, prepare for final presentation:           5/12/2017 - 5% of assignment grade
- * Final project turn-in and presentation:                               5/17/2017 - 75% of assignment grade
+ * Final project turn-in and presentation:                               5/17/2017 - 80% of assignment grade
 
 ## Objective
 There are two different options for this project:
