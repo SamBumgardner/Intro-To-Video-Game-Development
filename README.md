@@ -6,6 +6,7 @@
 ## Course Content
 
 ### Assignments
+ * [Assignment 1](./assignments/assignment_1.md)
  * [Final Project](project.md)
 
 ### Reference Material
