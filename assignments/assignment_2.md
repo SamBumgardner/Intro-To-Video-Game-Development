@@ -1,5 +1,9 @@
 # Assignment 2: Working with Player Input and Collision
 
+### Due Date 
+4/8/2019 (Monday) @ 5:30 PM (start of class) is my **preferred** due date. 11:59 PM (just before midnight) on Monday is the hard deadline. 
+I recommend that you start and ask questions early.
+
 ### Git Setup
 
  * Clone your haxeflixel-practice repository (or equivalent repo) to your computer.
@@ -52,11 +56,7 @@ Completing these will earn 1 extra point each. Total score for the assignment ca
 ### Turn-in Instructions
  * Make a pull request from your `assignment-1` branch to your repository's `master` branch. All of this should be done through GitHub. If possible, add me as a reviewer to your PR.
  * If you did any **Bonus** tasks, say which ones in the pull request.
-
-### Due Date 
-4/8/2019 (Monday) @ 5:30 PM (start of class) is my **preferred** due date. 11:59 PM (just before midnight) on Monday is the hard deadline. 
-I recommend that you start and ask questions early.
-
+ 
 ### Grading Criteria
 Grading criteria is as follows:
  * Git used correctly for branching and pull request: 2 points.
