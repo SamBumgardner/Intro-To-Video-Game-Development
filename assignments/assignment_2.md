@@ -29,13 +29,19 @@ Completing these will earn 1 extra point each. Total score for the assignment ca
      * Add `Wall` objects to the `PlayState`, arranged in an interesting way for the `TopDownHero` to navigate through.
 
 ### Part 2 - Collision
+##### Create the basic PlatformHero
  * Create a new file in the project's source directory called `PlatformerHero.hx`.
      * In that file, create the `PlatformerHero` class that extends FlxSprite. It needs some sort of visible graphic.
  * Make the `PlatformerHero` class automatically move downward as if affected by gravity.
      * This means accelerating downward vertically until reaching some terminal velocity, which it continues to fall at until otherwise interrupted.
+
+##### Create the Ground
  * Create a new file in the project's source directory called `Ground.hx`.
      * In that file, create the `Ground` class that extends FlxSprite. It needs some sort of visible graphic.
  * Add collision between `PlatformerHero` and `Ground` objects. (Can be implemented in the `PlayState`, `PlatformerHero`, or `Ground` class)
+ * At this point, it's a good idea to have `Ground` and `PlatformHero` objects added to your `PlayState` for testing purposes.
+
+##### Improve the basic PlatformHero
  * Add horizontal movement to the `PlatformerHero`, controlled by the `Left` and `Right` arrow keys.
      * Neither direction of movement should have priority over the other. If both `Left` and `Right` are held, the `PlatformerHero` should act as though neither direction were pressed.
      * The `PlatformerHero` should (eventually or immediately) come to a stop when no movement buttons are pressed.
