@@ -28,7 +28,7 @@ So I hope you understand that I'm not trying to give you busywork or something t
  * Send your summary to me via email.
  
 ## Deliverables
-1 text file named something like `<your_name_here>-assignment-4.txt` that is broken up into sections that address the following points:
+1 text file named something like `<your_name_here>-assignment-3.txt` that is broken up into sections that address the following points:
 
  1. Describe the pattern your chapter was about.
     * Make sure to describe it so that your classmates that haven't read the chapter can get a high-level understanding of its purpose and general implementation strategy. 
