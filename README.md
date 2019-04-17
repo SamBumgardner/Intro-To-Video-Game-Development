@@ -9,6 +9,7 @@
  * [Assignment 1](./assignments/assignment_1.md)
  * [Assignment 2](./assignments/assignment_2.md)
  * [Assignment 3](./assignments/assignment_3.md)
+ * [Final Project Proposal](./assignments/Project_Proposal.md)
  * [Final Project](project.md)
 
 ### Reference Material
