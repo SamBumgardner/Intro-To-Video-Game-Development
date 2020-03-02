@@ -1,4 +1,4 @@
-# CSC 303 - Spring 2019 - Final Project
+# CSC 303 - Spring 2020 - Final Project
 NOTE: Credit for the original file this was based on goes to [@ChadKillingsworth](https://github.com/ChadKillingsworth).
 
 ## Due Dates
@@ -6,10 +6,10 @@ The project is worth 40% of your total grade. Completing it is required. To prev
 procrastination and to assist with lowering end-of-semester stress, there are weekly checkpoints
 along the way where you must communicate with me about your project's progress.
 
- * Checkpoint 1 - Project proposal (turn-in via email):                  4/19/2019 - 5% of assignment grade
- * Checkpoint 2 - Review progress, determine reasonable changes to goal: 4/26/2019 - 5% of assignment grade
- * Checkpoint 3 - Review progress, finalize end-goal for project:        5/3/2019  - 5% of assignment grade
- * Checkpoint 4 - Panic check, prepare for final presentation:           5/10/2019 - 5% of assignment grade
+ * Checkpoint 1 - Project proposal (turn-in via email):                  4/17/2019 - 5% of assignment grade
+ * Checkpoint 2 - Review progress, determine reasonable changes to goal: 4/24/2019 - 5% of assignment grade
+ * Checkpoint 3 - Review progress, finalize end-goal for project:        5/1/2019  - 5% of assignment grade
+ * Checkpoint 4 - Panic check, prepare for final presentation:           5/8/2020 - 5% of assignment grade
  * Final project turn-in and presentation:                               5/13/2019 - 80% of assignment grade
 
 ## Objective

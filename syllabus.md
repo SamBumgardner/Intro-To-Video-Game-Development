@@ -1,5 +1,5 @@
 # CSC 303 - Introductory Video Game Development for Designers and Programmers
-## Course Policy Statement - Spring 2018
+## Course Policy Statement - Spring 2020
 NOTE: Credit for the original syllabus this was based on goes to [@ChadKillingsworth](https://github.com/ChadKillingsworth).
 
 **Office:** No campus office  
@@ -23,7 +23,7 @@ Upon completion of the course, students should:
  5. Understand how to apply existing computer science-related knowledge to the process of making games.
 
 ### Textbooks
-None.
+[Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html), read the book online free of charge!
 
 ### Attendance
 Attendance in the class will account for 10% of your grade. I'll try to put all of our lecture notes into the class repository, but discussions and in-class exercises are hard to capture in a document. That, and not attending class generally isn't good for your students' understanding of the material. 
@@ -66,17 +66,19 @@ Letter grades will be assigned as follows:
 
 I don't expect there to be any grade-curving in this class, but I reserve the right to do so if I consider it necessary.
 
-An “W” grade for this course cannot be assigned after the [deadline in the academic calendar](http://calendar.missouristate.edu/event/91738/164668).
+An “W” grade for this course cannot be assigned after the [deadline in the academic calendar](https://calendar.missouristate.edu/event/102123/193160).
 
 ### Examinations
 None.
 
 ### Important Notes on Grading
-The best way to improve your course grade is to submit assignments on time.
-The best way to reduce your course grade is to not turn in assignments.
-The due date will be given with each assignment. 
-Late assignments will be penalized 10% for each calendar day after the due date.
-All assignments and lab exercises may be completed using MSU-provided equipment and software or software available by download.
+ * The best way to improve your course grade is to submit assignments on time.
+ * The best way to reduce your course grade is to not turn in assignments.
+ * The due date will be given with each assignment. 
+ * Late assignments will be penalized 10% for each calendar day after the due date.
+ * All assignments and lab exercises may be completed using MSU-provided equipment and software or software available by download.
+
+Also, this class should be lots of fun. Your grade exists to reflect your engagement with the course, not give you some arbitrary numbers to stress out about. If your grade does become a source of fear or stress, please talk to me right away.
 
 ### Classroom Policies
 #### Laptops, Tablets and Other Devices
