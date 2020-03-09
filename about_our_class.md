@@ -3,3 +3,6 @@ As a class exercise, we will each use git and GitHub to add our own little autob
 
 ## Example Name
 Hello, I'm Example Name. I like to go sailing on the weekends, but my true passion is collecting dryer lint.
+
+## Corey Rusher
+Yo yo yo, I'm Corey Rusher (or Crusher). I can beat anybody in here in CoD, or ping pong mwahahaha.
