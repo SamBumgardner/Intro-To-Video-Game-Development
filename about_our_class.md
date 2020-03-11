@@ -4,5 +4,8 @@ As a class exercise, we will each use git and GitHub to add our own little autob
 ## Sam Bumgardner
 I'm teaching the class! At the moment, I'm adding to this document to demonstrate proper Git usage.
 
+## Sky Ludwig 
+Hello there, my name is Sky. I like cars, video games, and football.
+
 ## Example Name
 Hello, I'm Example Name. I like to go sailing on the weekends, but my true passion is collecting dryer lint.
