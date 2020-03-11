@@ -12,3 +12,11 @@ Hello, I'm Ethan. I'm a Mathematics and Computer Science major who spends a lot 
 
 ## Calen Eckroth
 Hello, I'm Calen Eckroth. I'm really tired.
+
+
+
+
+
+## Sky Ludwig
+Hello there, my name is Sky. I like cars, video games, and football.
+
