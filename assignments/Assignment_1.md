@@ -1,14 +1,15 @@
 # Assignment 1: Additional Git Practice
 
 ### To Do List:
- * Make at least three branches off of [CSC-303-Git-Playground](https://github.com/SamBumgardner/CSC-303-Git-Playground)'s `master` branch.
+ * Create a fork of my [CSC-303-Git-Playground](https://github.com/SamBumgardner/CSC-303-Git-Playground) repository.
+ * Make at least three branches off of your fork's `master` branch.
  * Across all of your branches, make at least 10 commits, following the criteria below:
     1. At least three commits should include adding a file.
     2. At least three commits should include removing a file.
     3. At least three commits should include altering the contents of files.
- * Make a pull request from each of your branches to `master`.
- * Comment on and review (eventually approving) at least three other student's *unapproved* pull requests.
- * Merge each of your pull requests. **HOWEVER** Before merging your pull requests, make sure to:
+ * Make a pull request from each of your branches to the original repository's `master`.
+ * Review and comment on at least three other student's *unapproved* pull requests. Aim to leave a comment relevant to the contents of the pull request, rather than random memes.
+ * Ask me to merge each of your pull requests. **HOWEVER** Before merging your pull requests, make sure to:
     1. Pull `master` into your branch if `master` has been updated since you originally branched off of it.
     2. Resolve any merge conflicts that arise in your branches.
  * Write up a response according to the instructions in **Deliverables** and email it to me.
