@@ -30,7 +30,7 @@ rest of your homework assignments.
 ### Submission Instructions: 
 Send an email with your reflection attached to bumgardner125@live.missouristate.edu
 
-**Due Date:** 3/23/2020 @ 5:30 PM (start of class)
+**Due Date:** 3/30/2020 @ 5:30 PM (start of class)
 
 **Grading Criteria**
 Grading criteria is as follows:
