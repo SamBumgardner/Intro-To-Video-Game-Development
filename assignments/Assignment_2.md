@@ -1,4 +1,4 @@
-# Assignment 1: Working with FlxState and FlxSprite
+# Assignment 2: Working with FlxState and FlxSprite
 **Note: this assignment will be due in two parts.** 
  * Part 1 is due on Monday, April 6th at the start of class (5:30 PM CST)
  * Part 2 is due on Wednesday, April 8th at the start of class (5:30 PM CST)
