@@ -31,7 +31,7 @@ Completing these will earn 1 extra point each. Total score for the assignment ca
 
 
 ### Part 2 - Adding Hero Class
-**Due Date: Monday, 4/8/2020**
+**Due Date: Wednesday, 4/8/2020**
  * Create a new file in the project's source directory called `Hero.hx`.
  * In that file, create the `Hero` class that *extends* `FlxSprite`.
  * Inside the `Hero`'s `new()` function, use `makeGraphic()` to give it a simple rectangle graphic.
