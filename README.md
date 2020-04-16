@@ -10,7 +10,7 @@
  * [Assignment 2](assignments/Assignment_2.md)
  * [Assignment 3](assignments/Assignment_3.md)
  * [In Class Exercise](assignments/Programming_Patterns_Exercise.md)
- * [Project Proposal](Project_Proposal.md)
+ * [Project Proposal](assignments/Project_Proposal.md)
  * [Final Project](project.md)
 
 ### Reference Material
