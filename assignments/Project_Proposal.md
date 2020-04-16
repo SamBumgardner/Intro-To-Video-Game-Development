@@ -12,7 +12,7 @@ You have two options for your final project:
     * [A Mario-type Platformer (2017)](https://github.com/SamBumgardner/csc-303-platformer-2017)
     * Or a different project - consult with me if interested in some other option.
 
-**Due Date:** 4/20/2018 @ 11:59 PM
+**Due Date:** 4/20/2020 @ 5:30 PM
 
 **Deliverables:** 1 markdown file containing your project proposal, named `Project_Proposal.md`. See below for a list of expected content.
 
