@@ -28,4 +28,4 @@
  * [Suggested IDEs](https://haxe.org/documentation/introduction/editors-and-ides.html)
 
 ### Class Discord
-* Invite link available on request - send @SamBumgardner an email and we'll figure it out.
+* Invite link available on request - send [@SamBumgardner](https://github.com/SamBumgardner) an email and we'll figure it out.
