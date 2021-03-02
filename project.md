@@ -1,4 +1,4 @@
-# CSC 303 - Spring 2020 - Final Project
+# CSC 303 - Spring 2021 - Final Project
 NOTE: Credit for the original file this was based on goes to [@ChadKillingsworth](https://github.com/ChadKillingsworth).
 
 ## Due Dates

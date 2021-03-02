@@ -1,5 +1,5 @@
 # CSC 303 - Introductory Video Game Development for Designers and Programmers
-## Course Policy Statement - Spring 2020
+## Course Policy Statement - Spring 2021
 NOTE: Credit for the original syllabus this was based on goes to [@ChadKillingsworth](https://github.com/ChadKillingsworth).
 
 **Office:** No campus office  
