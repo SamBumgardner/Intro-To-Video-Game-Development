@@ -11,7 +11,8 @@ NOTE: Credit for the original syllabus this was based on goes to [@ChadKillingsw
 Hands-on introduction to video game development, emphasizing the application of general computer science knowledge to the process of making video games.
 
 ### Lectures
-Lectures will be M-W in Cheek 210. See [attendance](#Attendance).
+Lectures will be held online (via Zoom) each Monday and Wednesday from 5:30 pm to 7:30 pm. See [attendance](#Attendance).
+A link to our first meeting will be emailed out before class - subsequent zoom links will be posted in the class discor
 
 ### Learning Outcomes
 Upon completion of the course, students should:
@@ -30,7 +31,7 @@ Attendance in the class will account for 10% of your grade. I'll try to put all 
 
 If you know you will have to miss a class in advance, then please let me know in an email and we'll work something out. 
 
-If some terrible catastrophe caused you to miss a class, please also let me know in an email. My goal isn't to punish people for having bad luck; I just want to encourage everyone to give their best effort to get in the classroom on a regular basis.
+If some terrible catastrophe caused you to miss a class, please also let me know in an email. My goal isn't to punish people for having bad luck; I just want to encourage everyone to give their best effort to get in the ~~classroom~~ zoom meeting on a regular basis.
 
 ### Tentative Outline
 Weeks 1-4:
@@ -76,17 +77,13 @@ None.
  * The best way to reduce your course grade is to not turn in assignments.
  * The due date will be given with each assignment. 
  * Late assignments will be penalized 10% for each calendar day after the due date.
- * All assignments and lab exercises may be completed using MSU-provided equipment and software or software available by download.
+ * All assignments and lab exercises may be completed using ~~MSU-provided equipment and software or~~ software available by download.
 
 Also, this class should be lots of fun. Your grade exists to reflect your engagement with the course, not give you some arbitrary numbers to stress out about. If your grade does become a source of fear or stress, please talk to me right away.
 
-### Classroom Policies
-#### Laptops, Tablets and Other Devices
-Laptop computers, tablets or other devices are allowable for note-taking purposes only, provided that there are only minimal keyboard noises. If I believe that your device is in use for other than note-taking, or is more of a distraction than a benefit to you or to others, I will ask you to put it away. Laptops and PDAs must comply with the cell phone policy in their capability as a “communicative device.”
+### "Classroom" Policies
+We're all learning from home now, so most of the ordinary rules for classroom ettiquitte don't really apply to us anymore. To help ensure we have smooth, productive, and fun remote learning sessions, please follow the recommendations described by the "Tips for Meeting Attendees" section of this article from the University of Pittsburg, [Zoom Meetings: Etiquette and Best Practices](https://www.technology.pitt.edu/blog/zoom-tips)
 
-#### Cell Phones
-As a member of the learning community, each student has a responsibility to other students
-who are members of the community. When cell phones ring or receive other audible notifications and students respond in class or leave class to respond, it disrupts the class. Therefore, the Office of the Provost prohibits the use by students of cell phones, pagers, PDAs, or similar communication devices during scheduled classes. All such devices must be turned off or put in a silent (vibrate) mode and ordinarily should not be taken out during class. Given the fact that these same communication devices are an integral part of the University’s emergency notification system, an exception to this policy would occur when numerous devices activate simultaneously. When this occurs, students may consult their devices to determine if a university emergency exists. If that is not the case, the devices should be immediately returned to silent mode and put away. Other exceptions to this policy may be granted at the discretion of the instructor.
 
 ### University Policies
 #### Academic Integrity

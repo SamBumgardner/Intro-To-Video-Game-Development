@@ -6,16 +6,16 @@ The project is worth 40% of your total grade. Completing it is required. To prev
 procrastination and to assist with lowering end-of-semester stress, there are weekly checkpoints
 along the way where you must communicate with me about your project's progress.
 
- * Checkpoint 1 - Project proposal (turn-in via email):                  4/20/2019 - 5% of assignment grade
- * Checkpoint 2 - Review progress, determine reasonable changes to goal: 4/24/2019 - 5% of assignment grade
- * Checkpoint 3 - Review progress, finalize end-goal for project:        5/1/2019  - 5% of assignment grade
- * Checkpoint 4 - Panic check, prepare for final presentation:           5/8/2020 - 5% of assignment grade
- * Final project turn-in and presentation:                               5/11/2019 @ 5:45 PM - 80% of assignment grade
+ * Checkpoint 1 - Project proposal (turn-in via email):                  4/16/2021 - 5% of assignment grade
+ * Checkpoint 2 - Review progress, determine reasonable changes to goal: 4/23/2021 - 5% of assignment grade
+ * Checkpoint 3 - Review progress, finalize end-goal for project:        5/30/2021  - 5% of assignment grade
+ * Checkpoint 4 - Panic check, prepare for final presentation:           5/7/2021 - 5% of assignment grade
+ * Final project turn-in and presentation:                               5/10/2021 @ 5:45 PM - 80% of assignment grade
 
 ## Objective
 There are two different options for this project:
  1. Implement a basic game of your choice. 
- 2. Add a new feature or subsystem to the class's example game
+ 2. Add a new feature or subsystem to our class's shared game (which will be constructed as part of an assignment during this semester).
 
 ## Project Setup
 If you choose to create your own game:
