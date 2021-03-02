@@ -12,7 +12,8 @@ Hands-on introduction to video game development, emphasizing the application of 
 
 ### Lectures
 Lectures will be held online (via Zoom) each Monday and Wednesday from 5:30 pm to 7:30 pm. See [attendance](#Attendance).
-A link to our first meeting will be emailed out before class - subsequent zoom links will be posted in the class discor
+
+A link to our first meeting will be emailed to each student before class begins. Subsequent links will be posted in the class discord server.
 
 ### Learning Outcomes
 Upon completion of the course, students should:
