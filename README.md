@@ -6,11 +6,6 @@
 ## Course Content
 
 ### Assignments
- * [Assignment 1](assignments/Assignment_1.md)
- * [Assignment 2](assignments/Assignment_2.md)
- * [Assignment 3](assignments/Assignment_3.md)
- * [In Class Exercise](assignments/Programming_Patterns_Exercise.md)
- * [Project Proposal](assignments/Project_Proposal.md)
  * [Final Project](project.md)
 
 ### Reference Material
@@ -33,4 +28,4 @@
  * [Suggested IDEs](https://haxe.org/documentation/introduction/editors-and-ides.html)
 
 ### Class Discord
-* https://discord.gg/RkkH8qW
+* Invite link available on request - send [@SamBumgardner](https://github.com/SamBumgardner) an email and we'll figure it out.
