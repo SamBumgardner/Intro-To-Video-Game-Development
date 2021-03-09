@@ -10,3 +10,8 @@ Sam Bumgardner:
  - This is an autobiography
  - written by me
  - posted on GitHub
+
+ Matt Lippelman:
+ - I also like cheese
+ - but I like games more
+ - I am terrible at rhymes
