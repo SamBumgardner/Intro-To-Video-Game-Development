@@ -15,3 +15,8 @@ Sam Bumgardner:
  - I also like cheese
  - but I like games more
  - I am terrible at rhymes
+ 
+ Robert Chambers
+ - I like Hamburgers
+ - I like anime
+ - I couldn't think of a rhyme
