@@ -6,6 +6,7 @@
 ## Course Content
 
 ### Assignments
+ * [Assignment 1](assignments/Assignment_1.md)
  * [Final Project](project.md)
 
 ### Reference Material
@@ -23,9 +24,8 @@
  * [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
 ### Downloads
- * [Haxe](https://haxe.org/download/)
- * [HaxeFlixel](http://haxeflixel.com/documentation/getting-started/)
- * [Suggested IDEs](https://haxe.org/documentation/introduction/editors-and-ides.html)
+ * [HaxeFlixel](http://haxeflixel.com/documentation/getting-started/) - includes links to install
+the appropriate version of Haxe (our language) and an effective IDE (Visual Studio Code recommended)
 
 ### Class Discord
 * Invite link available on request - send [@SamBumgardner](https://github.com/SamBumgardner) an email and we'll figure it out.
