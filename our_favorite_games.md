@@ -12,3 +12,7 @@ Are these our favorite games? Who can truly say.
  * Legend of Zelda: Twilight Princess
  * Ghost Tricks  
 
+ ## Blake Engelbrecht
+* Halo 3
+* Elder Scrolls IV: Oblivion
+* Donkey Kong Country
