@@ -12,6 +12,11 @@ Are these our favorite games? Who can truly say.
  * Assassins Creed Odyssey
  * Ori and The Will of The Wisps
 
+ ## Robert Chambers
+ * UNDERTALE
+ * Legend of Zelda: Twilight Princess
+ * Ghost Tricks
+
  ## Blake Engelbrecht
 * Halo 3
 * Elder Scrolls IV: Oblivion
