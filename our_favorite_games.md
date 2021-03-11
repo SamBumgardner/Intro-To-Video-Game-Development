@@ -6,3 +6,7 @@ Are these our favorite games? Who can truly say.
  * Fantasy Strike
  * Bravely Default
 
+ ## Blake Engelbrecht
+* Halo 3
+* Elder Scrolls IV: Oblivion
+* Donkey Kong Country
