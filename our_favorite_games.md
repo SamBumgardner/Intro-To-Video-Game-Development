@@ -5,6 +5,7 @@ Are these our favorite games? Who can truly say.
  * Fire Emblem 7
  * Fantasy Strike
  * Bravely Default
+ * Tekken 7
 
 ## Matt Lippelman
  * League of Legends
