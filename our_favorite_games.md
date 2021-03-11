@@ -6,3 +6,8 @@ Are these our favorite games? Who can truly say.
  * Fantasy Strike
  * Bravely Default
 
+ ## Robert Chambers
+ * UNDERTALE
+ * Legend of Zelda: Twilight Princess
+ * Ghost Tricks  
+
