@@ -7,10 +7,15 @@ Are these our favorite games? Who can truly say.
  * Bravely Default
  * Tekken 7
 
+## Matt Lippelman
+ * League of Legends
+ * Assassins Creed Odyssey
+ * Ori and The Will of The Wisps
+
  ## Robert Chambers
  * UNDERTALE
  * Legend of Zelda: Twilight Princess
- * Ghost Tricks  
+ * Ghost Tricks
 
  ## Blake Engelbrecht
 * Halo 3
