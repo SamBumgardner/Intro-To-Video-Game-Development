@@ -9,4 +9,4 @@ Are these our favorite games? Who can truly say.
 ## Matt Lippelman
  * League of Legends
  * Assassins Creed Odyssey
- * Ori and The Will of The WispsÎ
+ * Ori and The Will of The Wisps
