@@ -11,3 +11,8 @@ Are these our favorite games? Who can truly say.
  * League of Legends
  * Assassins Creed Odyssey
  * Ori and The Will of The Wisps
+
+ ## Blake Engelbrecht
+* Halo 3
+* Elder Scrolls IV: Oblivion
+* Donkey Kong Country
