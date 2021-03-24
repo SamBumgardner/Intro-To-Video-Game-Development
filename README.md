@@ -7,6 +7,7 @@
 
 ### Assignments
  * [Assignment 1](assignments/Assignment_1.md)
+ * [Assignment 2](assignments/Assignment_2.md)
  * [Final Project](project.md)
 
 ### Reference Material
