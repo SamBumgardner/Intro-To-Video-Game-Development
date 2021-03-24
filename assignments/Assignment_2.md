@@ -1,4 +1,6 @@
 # Assignment 2: Working with FlxState and FlxSprite
+Note: This assigment is due **Monday, March 29th at 5:30 PM** (start of class).
+
 ### Git Setup
  * Create a new repository in GitHub named `haxeflixel-practice` (or something similar). Initialize it with an empty readme (this should be the default choice) so you can start using it right away.
  * Clone your new `haxeflixel-practice` repository to your computer.
@@ -49,7 +51,7 @@ Completing these will earn 1 extra point each. Total score for the assignment ca
 
 **Due Date:**
 
-This assigment is due March 29th at 5:30 PM (start of class).
+This assigment is due **Monday, March 29th at 5:30 PM** (start of class).
 
 I recommend that you start early and ask questions early. It's much easier to troubleshoot problems when we have days of time left before our due date.
 
