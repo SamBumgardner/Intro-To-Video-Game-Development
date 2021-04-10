@@ -4,6 +4,8 @@
  * [Course Syllabus](syllabus.md)
 
 ## Course Content
+ * [Git Cheat Sheet](lectures/git_cheat_sheet.md)
+ * [Git Fork Syncing](lectures/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
 
 ### Assignments
  * [Assignment 1](assignments/Assignment_1.md)
