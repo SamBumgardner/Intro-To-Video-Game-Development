@@ -22,14 +22,14 @@ The goals of this assignment are as follows:
 
  * Select a pattern from [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) 
 to read and write about.
- * Post a message in the lecture-discussion channel in Discord saying the pattern you've selected. 
-   * Make sure yours is distinct from everyone else's!
  * Read your selected chapter.
- * Write a reflection / summary according to the requirements listed in **Deliverables**
- * Be prepared to upload your summary and share what you've learned (either through voice chat or
-typing)
+ * Write a reflection / summary according to the requirements listed in **Deliverables**.
+ * Share the contents of your-write-up with the class.
+ * Turn in your write-up via email to bumgardner125@live.missouristate.edu
  
-**Deliverables:** 1 text file named something like `<your_name_here>-<pattern_name_here>.txt` that 
+**Deliverables:** 
+
+1 text file named something like `<your_name_here>-<pattern_name_here>.txt` that 
 is broken up into sections that address the following points:
 
  1. Describe the pattern your chapter was about.
@@ -42,7 +42,7 @@ too carried away, and keep things focused on the programming pattern overall.
     * If you can't think of how the programming pattern would apply to one of your future games, 
 feel free to just describe any (original, not taken directly from the book) hypothetical game where 
 the pattern would be useful.
- 1. Show and discuss some (at least two) examples of elements of games where this pattern may have 
+ 3. Show and discuss some (at least two) examples of elements of games where this pattern may have 
 been used, or at least would have been useful in creating the end result we can see.
     * Give detail and depth with your examples so it is an understandable and useful example to 
 people who haven't played the game before.
