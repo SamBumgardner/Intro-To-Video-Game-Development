@@ -6,7 +6,7 @@ The project is worth 40% of your total grade. Completing it is required. To prev
 procrastination and to assist with lowering end-of-semester stress, there are weekly checkpoints
 along the way where you must communicate with me about your project's progress.
 
- * Checkpoint 1 - Project proposal (turn-in via email):                  4/16/2021 - 5% of assignment grade
+ * Checkpoint 1 - Project proposal (turn-in via email):                  4/19/2021 - 5% of assignment grade
  * Checkpoint 2 - Review progress, determine reasonable changes to goal: 4/23/2021 - 5% of assignment grade
  * Checkpoint 3 - Review progress, finalize end-goal for project:        5/30/2021  - 5% of assignment grade
  * Checkpoint 4 - Panic check, prepare for final presentation:           5/7/2021 - 5% of assignment grade
