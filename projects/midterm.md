@@ -5,7 +5,8 @@ This project marks our first foray into the realm of start-to-finish game develo
 to be a bit messy and fraught with unexpected complications - there's plenty you'll learn by 
 doing that's difficult to capture theoretically.
 
-Our goal isn't exactly to make the best game ever
+Our goal isn't really to make the best game ever. For this project, we want to make something small 
+(and hopefully fun!) that lets us test what we've learned so far.
 
 ## Due Dates
 This project is worth 20% of the class's total grade and our work time is stretched across several
