@@ -14,11 +14,13 @@ This project is worth a hefty 30% of the class's total grade. As in our midterm 
 use a system of checkpoint meetings prevent procrastination and reduce end-of-semester stress. 
 We'll use each meeting to discuss your progress and re-assess our initial goals.
 
- * Checkpoint 1 - Project proposal (turn-in via email):                  4/22/2022 - 5% of assignment grade
- * Checkpoint 2 - Review progress, determine reasonable changes to goal: 4/29/2022 - 5% of assignment grade
- * Checkpoint 3 - Review progress, finalize end-goal for project:        5/6/2022  - 5% of assignment grade
- * Checkpoint 4 - Panic check, prepare for final presentation:           5/13/2022 - 5% of assignment grade
- * Final project turn-in and presentation:                               5/16/2022 @ 5:45 PM - 80% of assignment grade
+Assignment                                                           | Due Date            | Grade
+-------------------------------------------------------------------- | ------------------- | ----------------------
+Checkpoint 1 - Project proposal                                      | 4/22/2022           | 5% of assignment grade
+Checkpoint 2 - Review progress, determine reasonable changes to goal | 4/29/2022           | 5% of assignment grade
+Checkpoint 3 - Review progress, finalize end-goal for project        | 5/6/2022            | 5% of assignment grade
+Checkpoint 4 - Panic check, prepare for final presentation           | 5/13/2022           | 5% of assignment grade
+Final project turn-in and presentation                               | 5/16/2022 @ 5:45 PM | 80% of assignment grade
 
 ## Objective
 Fully implement a game of your own design.

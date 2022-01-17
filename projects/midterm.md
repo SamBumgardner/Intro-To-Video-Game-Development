@@ -12,11 +12,13 @@ This project is worth 20% of the class's total grade and our work time is stretc
 weeks. To limit procrastination and make sure you don't end up in a crunch at the end, we'll hold 
 weekly checkpoint meetings to discuss your progress and re-assess our initial goals.
 
- * Checkpoint 1 - Project proposal (turn-in via email):                  2/18/2022 - 5% of assignment grade
- * Checkpoint 2 - Review progress, determine reasonable changes to goal: 2/25/2022 - 5% of assignment grade
- * Checkpoint 3 - Review progress, finalize end-goal for project:        3/4/2022  - 5% of assignment grade
- * Project turn-in and presentation:                                     3/9/2022 @ 5:30 PM - 75% of assignment grade
- * Project review / reflection:                                          3/21/2022 @ 11:59 PM - 10% of assignment grade
+Assignment                                                           | Due Date             | Grade
+-------------------------------------------------------------------- | -------------------- | ----------------------
+Checkpoint 1 - Project proposal                                      | 2/18/2022            | 5% of assignment grade
+Checkpoint 2 - Review progress, determine reasonable changes to goal | 2/25/2022            | 5% of assignment grade
+Checkpoint 3 - Review progress, finalize end-goal for project        | 3/4/2022             | 5% of assignment grade
+Project turn-in and presentation                                     | 3/9/2022 @ 5:30 PM   | 75% of assignment grade
+Project review / reflection                                          | 3/21/2022 @ 11:59 PM | 10% of assignment grade
 
 ## Objective
 Fully implement a game of your own design.

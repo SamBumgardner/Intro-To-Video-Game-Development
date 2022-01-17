@@ -22,9 +22,11 @@ The majority of the project grade is split between pre-game jam preparation and 
 reflection, however. This isn't to de-incentivize finishing a game, it's more of a concession to 
 the fact that this is a pretty difficult thing for a 1-credit hour class to ask of you.
 
- * Pre-game jam preparation write-up:     3/27/2022 @ 5:30 PM - 30% of assignment grade
- * Completed game uploaded to Ludum Dare: 4/4/2022 - 20% of assignment grade
- * Post-game jam reflection write-up:     4/6/2022 - 50% of assignment grade
+Assignment                            | Due Date            | Grade
+------------------------------------- | ------------------- | ----------------------
+Pre-game jam preparation write-up     | 3/27/2022 @ 5:30 PM | 30% of assignment grade
+Completed game uploaded to Ludum Dare | 4/4/2022            | 20% of assignment grade
+Post-game jam reflection write-up     | 4/6/2022            | 50% of assignment grade
 
 ## Objective
 Participate in Ludum Dare 50, and get some valuable real-world experience along the way.
