@@ -1,6 +1,5 @@
 # CSC 303 - Introductory Video Game Development for Designers and Programmers
-## Course Policy Statement - Spring 2021
-NOTE: Credit for the original syllabus this was based on goes to [@ChadKillingsworth](https://github.com/ChadKillingsworth).
+## Course Policy Statement - Spring 2022
 
 **Office:** No campus office  
 **Email:** Bumgardner125@live.missouristate.edu  
@@ -8,31 +7,54 @@ NOTE: Credit for the original syllabus this was based on goes to [@ChadKillingsw
 **Course Web Site:** https://github.com/SamBumgardner/Intro-To-Video-Game-Development
 
 ### Course Description
-Hands-on introduction to video game development, emphasizing the application of general computer science knowledge to the process of making video games.
+Hands-on introduction to video game development, emphasizing the application of general computer 
+science knowledge to the process of making video games.
 
 ### Lectures
-Lectures will be held online (via Zoom) each Monday and Wednesday from 5:30 pm to 7:30 pm. See [attendance](#Attendance).
+Our first lecture will be held in-person in Cheek 210 for our first two weeks of class from 5:30 PM 
+to 6:20 PM.
 
-A link to our first meeting will be emailed to each student before class begins. Subsequent links will be posted in the class discord server.
+Subsequent lectures may be held online (via Zoom) each Monday and Wednesday from 5:30 PM to 
+6:20 PM. I'd like to make this change for our safety, given the transmissability of Covid variants
+like Omicron. The class is presently slated to be in-person throughout the semester, but I'll be 
+discussing this with the students and our department to understand if we can make the transition to
+online without hampering our ability to teach and learn.
+
+Should we fully switch to online classes, a link to our first online meeting will be emailed to 
+each student before class begins. Subsequent links will be posted in the class discord server as
+needed, or can be emailed out upon request.
+
+Attendance will be required as part of each student's grade, see [attendance](#Attendance) for 
+details.
 
 ### Learning Outcomes
 Upon completion of the course, students should:
 
  1. Know and comfortably use git workflow through github.
- 2. Have a solid understanding of the Haxe programming language and the differences and similarities between it and the other programming languages.
- 3. Understand the purpose of a game engine.
- 4. Be able to identify core responsibilities of a game engine.
- 5. Understand how to apply existing computer science-related knowledge to the process of making games.
+ 2. Understand how to use the the Haxe programming language, and be capable of identifying key 
+    differences between it and languages they were previously familiar with.
+ 3. Understand the purpose and core responsibilities of a game engine.
+ 4. Be capable of comparing the differences in design and features of different game engines, and 
+    understand how they impact the game development process.
+ 5. Understand how to apply existing computer science-related knowledge to the process of making 
+    games.
 
 ### Textbooks
-[Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html), read the book online free of charge!
+[Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html), read the book 
+online free of charge!
 
 ### Attendance
-Attendance in the class will account for 10% of your grade. I'll try to put all of our lecture notes into the class repository, but discussions and in-class exercises are hard to capture in a document. That, and not attending class generally isn't good for your students' understanding of the material. 
+Attendance in the class will account for 10% of your grade. Some supplementary lecture notes and 
+resources will be uploaded to the class repository, but discussions and in-class exercises are hard 
+to capture in a document. Not attending class generally isn't good for your understanding of the 
+material, so please plan on attending all lectures throughout the semester.
 
-If you know you will have to miss a class in advance, then please let me know in an email and we'll work something out. 
+If you know you will have to miss a class in advance, then please let me know in an email and we'll 
+work something out. 
 
-If some terrible catastrophe caused you to miss a class, please also let me know in an email. My goal isn't to punish people for having bad luck; I just want to encourage everyone to give their best effort to get in the ~~classroom~~ zoom meeting on a regular basis.
+If some terrible catastrophe caused you to miss a class, please also let me know in an email. My 
+goal isn't to punish people for having bad luck; I just want to encourage everyone to give their 
+best effort to get in the classroom or zoom meeting on a regular basis.
 
 ### Tentative Outline
 Weeks 1-4:
@@ -43,20 +65,28 @@ Weeks 1-4:
  * How to work with HaxeFlixel.
 
 Weeks 4-8:
- * Discuss how to implement various game systems.
- * Talk about other game engines, their features, and some of the implementation details behind them.
- * Work on [final project](project.md)
+ * Discuss how to implement various game systems in Haxeflixel.
+ * Discussing about other game engines, their features, and some of the details of their 
+   implementation.
+ * Complete the [midterm haxeflixel project](projects/midterm.md).
 
+Weeks 8-12:
+ * Begin game development with Godot.
+ * Discuss broader game development topics, including project planning and cross-discipline 
+   collaboration.
+ * [Participate in Ludum Dare 50 as a class project](projects/ludum_dare.md) (April 1st - 4th).
+
+Weeks 12-16:
+ * [Final project](projects/final.md) development.
 
 ### Grading
-
-Component                  | Percentage
--------------------------- | -------------------
-Assignments and Exercises  | 50% (Drop 1 lowest)
-[Final Project](project.md)              |                 40%
-Attendance                 |                 10%
-
-Each student's lowest-grade assignment will be dropped from their final grade at the end of the semester. This policy is in place to give students some measure of protection against unexpected disasters, not to give everyone one "free" assignment. Every graded assignment was assigned for a very particular purpose, so I recommend that you do *not* just pick an assignment to skip.
+Component                                    | Percentage
+-------------------------------------------- | -------------------
+Assignments and Exercises                    | 20% 
+[Midterm Project](projects/midterm.md)       | 20%
+[Ludum Dare Project](projects/ludum_dare.md) | 20%
+[Final Project](projects/final.md)           | 30%
+Attendance                                   | 10%
 
 Letter grades will be assigned as follows:
 
@@ -66,32 +96,45 @@ Letter grades will be assigned as follows:
  * 60% and above is a D
  * below 60% is an F
 
-I don't expect there to be any grade-curving in this class, but I reserve the right to do so if I consider it necessary.
+I don't expect there to be any grade-curving in this class, but I reserve the right to do so if I 
+consider it necessary.
 
-An “W” grade for this course cannot be assigned after the [deadline in the academic calendar](https://calendar.missouristate.edu/event/102123/193160).
+An “W” grade for this course cannot be assigned after the deadline in the 
+[academic calendar](https://www.missouristate.edu/Registrar/2021-2022-academic-calendar.htm#spring),
+April 18th, 2022.
 
-### Examinations
-None.
+#### Examinations
+None!
 
-### Important Notes on Grading
+#### Important Notes on Grading
  * The best way to improve your course grade is to submit assignments on time.
  * The best way to reduce your course grade is to not turn in assignments.
  * The due date will be given with each assignment. 
  * Late assignments will be penalized 10% for each calendar day after the due date.
- * All assignments and lab exercises may be completed using ~~MSU-provided equipment and software or~~ software available by download.
+ * All assignments and lab exercises may be completed using free software available by download.
 
-Also, this class should be lots of fun. Your grade exists to reflect your engagement with the course, not give you some arbitrary numbers to stress out about. If your grade does become a source of fear or stress, please talk to me right away.
+Also, this class should be lots of fun. Your grade exists to reflect your engagement with the 
+course, not give you some arbitrary numbers to stress out about. If your grade does become a source 
+of fear or stress, please talk to me right away.
 
-### "Classroom" Policies
-We're all learning from home now, so most of the ordinary rules for classroom ettiquitte don't really apply to us anymore. To help ensure we have smooth, productive, and fun remote learning sessions, please follow the recommendations described by the "Tips for Meeting Attendees" section of this article from the University of Pittsburg, [Zoom Meetings: Etiquette and Best Practices](https://www.technology.pitt.edu/blog/zoom-tips)
+Grades will be tracked via Blackboard, 
+
+### Virtual Classroom Etiquette 
+There's a strong possibility that we will run lectures virtually at some point during this semster, 
+at which point many of the ordinary rules for classroom ettiquitte don't really apply to us anymore.
+To help ensure we have smooth, productive, and fun remote learning sessions, please follow the 
+recommendations described by the **"Tips for Meeting Attendees"** section of this article from the 
+University of Pittsburg, [Zoom Meetings: Etiquette and Best Practices](https://www.technology.pitt.edu/blog/zoom-tips).
 
 
 ### University Policies
-#### Academic Integrity
-Missouri State University is a community of scholars committed to developing educated persons who accept the responsibility to practice personal and academic integrity. You are responsible for knowing and following the university’s student honor code, [Student Academic Integrity Policies and Procedures](http://www.missouristate.edu/policy/Op3_01_AcademicIntegrityStudents.htm) and also available at the Reserves Desk in Meyer Library. Any student participating in any form of academic dishonesty will be subject to sanctions as described in this policy.
+As of this year, common university polices (including familiar topics like nondiscrimination, 
+disability accomodation, academic integrity, and more) are maintained on the 
+[University Syllabus Policy Statements](https://www.missouristate.edu/provost/bbsyllabus.htm)
+page on MSU's website. Please review it at the start of our semester to stay informed on these 
+topics.
 
-#### Nondiscrimination
-Missouri State University is an equal opportunity/affirmative action institution, and maintains a grievance procedure available to any person who believes he or she has been discriminated against. At all times, it is your right to address inquiries or concerns about possible discrimination to the Office for Institutional Equity and Compliance, Park Central Office Building, 117 Park Central Square, Suite 111, (417) 836-4252. Other types of concerns (i.e., concerns of an academic nature) should be discussed directly with your instructor and can also be brought to the attention of your instructor’s Department Head. Please visit the OED website at www.missouristate.edu/equity/.
-
-#### Disability Accommodation
-To request academic accommodations for a disability, contact the Director of the Disability Resource Center, Plaster Student Union, Suite 405, (417) 836-4192 or (417) 836-6792 (TTY), www.missouristate.edu/disability. Students are required to provide documentation of disability to the Disability Resource Center prior to receiving accommodations. The Disability Resource Center refers some types of accommodation requests to the Learning Diagnostic Clinic, which also provides diagnostic testing for learning and psychological disabilities. For information about testing, contact the Director of the Learning Diagnostic Clinic, (417) 836-4787, http://psychology.missouristate.edu/ldc.
+To be absolutely clear, I take these polices very seriously - I consider creating a safe and
+comfortable learning environment to be a fundamental requirement of my work. Keeping the policies
+in the external location doesn't mean they're distant from our class in any way - it's just a
+matter of keeping university policy up-to-date and consistent across all of our classes.
