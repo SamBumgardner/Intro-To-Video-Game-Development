@@ -11,11 +11,11 @@ Hands-on introduction to video game development, emphasizing the application of 
 science knowledge to the process of making video games.
 
 ### Lectures
-Our first lecture will be held in-person in Cheek 210 for our first two weeks of class from 5:30 PM 
-to 6:20 PM.
+Our first two weeks of class will be held online via Zoom from 5:30 PM to 6:20 PM.
 
-Subsequent lectures may be held online (via Zoom) each Monday and Wednesday from 5:30 PM to 
-6:20 PM. I'd like to make this change for our safety, given the transmissability of Covid variants
+Subsequent lectures may also be held online each Monday and Wednesday from 5:30 PM to 
+6:20 PM, but the state of the schedule isn't entirely certain. 
+I'd like to make this change for our safety, given the transmissability of Covid variants
 like Omicron. The class is presently slated to be in-person throughout the semester, but I'll be 
 discussing this with the students and our department to understand if we can make the transition to
 online without hampering our ability to teach and learn.
