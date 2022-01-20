@@ -4,7 +4,7 @@
 Brainstormed Ideas:
  - Taking turns on the same computer, like paired programming 
  - Copy and paste code to one person who assembles 
- - Git (Jaron) 
+ - Git 
  - Emailed 
  - Hand off physical code 
  - Video chat + shared screen. Either paired programming or worked on different modules, send 
