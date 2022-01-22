@@ -11,7 +11,8 @@
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
 
 ### Assignments
- * Coming Soon!
+ * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
+   Due Monday, 1/24/2021 @ 11:59 PM
 
 ### Projects
  * [Haxeflixel Project](projects/midterm.md)
