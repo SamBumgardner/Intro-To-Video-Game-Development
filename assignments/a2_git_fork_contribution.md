@@ -1,4 +1,4 @@
-# Assignment 2: What do we already know about Git?
+# Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy
 
 ## Purpose
 Now that we've talked through how to use git in excruciating detail, it's time to demonstrate we're
