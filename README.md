@@ -2,6 +2,7 @@
 
 ## Overview
  * [Course Syllabus](syllabus.md)
+ * [About Our Class](about_our_class.md)
 
 ## Course Content
  * Class Discussion
