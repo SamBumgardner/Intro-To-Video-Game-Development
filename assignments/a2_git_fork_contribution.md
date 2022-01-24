@@ -20,24 +20,24 @@ you is a valuable thing for my consideration when preparing future assignments f
 Work through the to-do list and specifications below to complete the assignment.
 
 ## To Do List:
- * Create a fork of the [CSC-303-Git-Playground](https://github.com/SamBumgardner/CSC-303-Git-Playground) 
+ 1. Create a fork of the [CSC-303-Git-Playground](https://github.com/SamBumgardner/CSC-303-Git-Playground) 
    repository.
- * Make at least three branches off of your fork's `master` branch.
- * Across all of your branches, make at least 10 commits, following the criteria below:
+ 2. Make at least three branches off of your fork's `master` branch.
+ 3. Across all of your branches, make at least 10 commits, following the criteria below:
     1. At least three commits should include adding a file.
     2. At least three commits should include removing a file.
     3. At least three commits should include altering the contents of files.
     4. The last commit can involve whatever you'd like. Be reasonably responsible!
- * Make a pull request from each of your branches to the original repository's `master`.
- * Review and comment on at least three other student's *unapproved* pull requests. 
+ 4. Make a pull request from each of your branches to the original repository's `master`.
+ 5. Review and comment on at least three other student's *unapproved* pull requests. 
    Aim to leave a comment relevant to the contents of the pull request, as practice for future 
    collaboration.
- * Ask me to merge each of your pull requests, either via email or discord ping. 
+ 6. Ask me to merge each of your pull requests, either via email or discord ping. 
    **HOWEVER** Before merging your pull requests, make sure to:
     1. Pull the original repository's `master` into your branch if it has been updated since you 
        originally branched off of it.
     2. Resolve any merge conflicts that arise in your branches.
- * Write up a response according to the instructions in **Deliverables** and email it to me.
+ 7. Write up a response according to the instructions in **Deliverables** and email it to me.
 
 ## Due Date 
 Monday, 1/31/2021 @ 11:59 PM 
