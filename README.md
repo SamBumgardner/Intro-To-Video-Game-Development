@@ -16,6 +16,7 @@
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
    Due Monday, 1/24/2021 @ 11:59 PM
+ * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Monday, 1/31/2021 @ 11:59 PM
 
 ### Projects
  * [Haxeflixel Project](projects/midterm.md)
