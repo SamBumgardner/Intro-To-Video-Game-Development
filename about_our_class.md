@@ -29,3 +29,8 @@ I hope that we all enjoy a delicious dinner at some point in the next week.
  * I don't have anything in my pocket, Gollum would've gotten me
  * Inconsistency in putting periods at the end of list items always gets me.
 
+## Victor Duchscherer
+Hi, I'm Victor Duchscherer.
+I enjoy playing video  games, learning more coding, messing with art software, and watching anime sometimes.
+Modding games is something I'm really passionate about, I'll mod just about any game I've played. I love customizing things.
+* I'm currently a CSC sophomore at MSU!
