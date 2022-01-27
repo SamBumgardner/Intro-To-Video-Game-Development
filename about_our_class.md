@@ -8,6 +8,14 @@ I like to go sailing on the weekends, but my true passion is collecting dryer li
  * Especially if my IDE supports previewing markdown (Visual Studio Code does)
  * If you're unfamiliar with Markdown, now's a great time to try things out!
 
+## John Lorette III
+Hi, my name is John Lorette III.
+I have a variety of hobbies and/or 'passions':
+ * Video Games
+ * Fiddling with Electronic Hardware and Software/Code
+ * Playing the Piano
+ * Reading and Learning if possible
+ * Eating Delicious Food
  ## Jaron Ritter
  Hey, I'm Jaron
  I love to cook, play video games (obviously), watch football, and solve problems. 
