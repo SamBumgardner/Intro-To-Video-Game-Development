@@ -1,9 +1,10 @@
 # About Our Class
 As a class exercise, we will each use git and GitHub to add our own little autobiography to this file!
 
-## Example Name
-Hello, I'm Example Name. 
-I like to go sailing on the weekends, but my true passion is collecting dryer lint.
- * I like making markdown lists, they're pretty cool.
- * Especially if my IDE supports previewing markdown (Visual Studio Code does)
- * If you're unfamiliar with Markdown, now's a great time to try things out!
+## Victor Duchscherer
+Hi, I'm Victor Duchscherer.
+
+I enjoy playing video games, learning more coding, messing with art software, and watching anime sometimes.
+Modding games is something I'm really passionate about, I'll mod just about any game I've played. I love customizing things.
+
+I'm currently a CSC sophomore at MSU!
