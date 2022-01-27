@@ -9,6 +9,9 @@
    * Jan. 19th [Code Collaboration Discussion](lectures/class_discussion/code_collaboration_strategies.md)
  * Class Exercises
    * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
+ * Lecture Slides
+   * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
+   * [2-2: Collaborating with Git](https://docs.google.com/presentation/d/1fWNFHAkDh2oXK_qIt8i9iSiDnyxicIRgQKlp-VgyYDY/edit?usp=sharing)
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
