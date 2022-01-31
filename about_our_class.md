@@ -7,3 +7,12 @@ I like to go sailing on the weekends, but my true passion is collecting dryer li
  * I like making markdown lists, they're pretty cool.
  * Especially if my IDE supports previewing markdown (Visual Studio Code does)
  * If you're unfamiliar with Markdown, now's a great time to try things out!
+
+ ## Jessica Dean
+ Hello, I'm Jessica Dean. 
+ I like to play games with my family and friends, especially card games. Some of my favorites are
+ * Speed
+ * Nertz
+ * Spades
+ * Pinochle
+ I like other games too, but I am especially fond of card games and like to keep cards with me just in case. :)
