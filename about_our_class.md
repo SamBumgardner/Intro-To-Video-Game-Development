@@ -42,3 +42,9 @@ Hi, I'm Victor Duchscherer.
 I enjoy playing video  games, learning more coding, messing with art software, and watching anime sometimes.
 Modding games is something I'm really passionate about, I'll mod just about any game I've played. I love customizing things.
 * I'm currently a CSC sophomore at MSU!
+
+## Liam Andrade
+Hello, I'm Liam Andrade. I'm a 2nd semester transfer student to MSU. I enjoy programming, games, and art. 
+
+ * i have a githubio >> https://kralinc.github.io
+ * yeah
