@@ -15,6 +15,7 @@
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
+   * [2-3: Fork-and-Branch Contribution with Git](https://docs.google.com/presentation/d/1kDT7THm1McMEHkb7dtivV_1u5yDohQHhODZqOeO9hsY/edit?usp=sharing)
 
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
