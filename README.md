@@ -15,11 +15,12 @@
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
+   * [2-3: Fork-and-Branch Contribution with Git](https://docs.google.com/presentation/d/1kDT7THm1McMEHkb7dtivV_1u5yDohQHhODZqOeO9hsY/edit?usp=sharing)
 
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
    Due Monday, 1/24/2021 @ 11:59 PM
- * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Monday, 1/31/2021 @ 11:59 PM
+ * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Friday, 2/4/2021 @ 11:59 PM
 
 ### Projects
  * [Haxeflixel Project](projects/midterm.md)
