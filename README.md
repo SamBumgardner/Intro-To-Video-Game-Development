@@ -9,7 +9,7 @@
    * Jan. 19th [Code Collaboration Discussion](lectures/class_discussion/code_collaboration_strategies.md)
  * Class Exercises
    * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
-   * Feb. 16th [A Basic HaxeFlixel Project](lectures/exercises/e2_basic_flixel_project.md)
+   * Feb. 9th [A Basic HaxeFlixel Project](lectures/exercises/e2_basic_flixel_project.md)
  * Lecture Slides
    * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
    * [2-2: Collaborating with Git](https://docs.google.com/presentation/d/1fWNFHAkDh2oXK_qIt8i9iSiDnyxicIRgQKlp-VgyYDY/edit?usp=sharing)
