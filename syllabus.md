@@ -13,16 +13,12 @@ science knowledge to the process of making video games.
 ### Lectures
 Our first two weeks of class will be held online via Zoom from 5:30 PM to 6:20 PM.
 
-Subsequent lectures may also be held online each Monday and Wednesday from 5:30 PM to 
-6:20 PM, but the state of the schedule isn't entirely certain. 
-I'd like to make this change for our safety, given the transmissability of Covid variants
-like Omicron. The class is presently slated to be in-person throughout the semester, but I'll be 
-discussing this with the students and our department to understand if we can make the transition to
-online without hampering our ability to teach and learn.
+Subsequent classes will be held in-person:
+**When:** Mondays & Wednesdays, 5:30 - 6:20 PM
+**Where:** Cheek 210
 
-Should we fully switch to online classes, a link to our first online meeting will be emailed to 
-each student before class begins. Subsequent links will be posted in the class discord server as
-needed, or can be emailed out upon request.
+Should we need to switch back to online classes, links to our lecture will be posted in the class 
+discord server as needed, or can be emailed out upon request.
 
 Attendance will be required as part of each student's grade, see [attendance](#Attendance) for 
 details.
