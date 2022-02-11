@@ -1,4 +1,4 @@
-# In-Class Exercise: A Basic HaxeFlixel Project
+# Assignment 3: A Basic HaxeFlixel Project
 
 ## Purpose
 It's time to set up our first haxeflixel project! 
@@ -121,9 +121,9 @@ to fix any issues that arise.
 
  7. Update the `PlayState` class's `create()` method to instantiate and `add()` a `Hero` object.
     1. After `super.create()` is called...
-    2. Create a new `Hero` object, passing in X and Y coordinates somewhere between 100 - 200. This
-       will give the hero a position that's somewhere in the middle of the screen (instead of the)
-       top-left corner, where (0, 0) is.
+    2. Create a new `Hero` object, passing X and Y values into its constructor to give it a 
+       position around (300, 300). This will give the Hero a position that's somewhere in the 
+       middle of the screen instead of the top-left corner, which is (0, 0).
 
  8. Build and run the game (using the same commands as before) and confirm that the Hero object is 
     now located somewhere on the screen.
@@ -137,12 +137,32 @@ to fix any issues that arise.
 
  11. Request review from others, students or professor.
 
- 12. After receiving some kind of review, merge. Make sure to update your local `main` branch to be
-     caught up with the newly applied changes.
+ 12. After receiving approval from the professor, merge. Make sure to update your local `main` 
+     branch to be caught up with the newly applied changes.
 
 After your changes are merged and your local repo's up-to-date, you're done!
 
-## Post-Exercise Recommendations
+## Due Date 
+Friday, 2/14/2022 @ 5:30 PM 
+
+## Deliverables
+There's no external deliverable attached to this assignment. The act of opening a pull request is
+your submission.
+
+Let the professor know when your changes are ready for review via message in Discord or an email
+sent to bumgardner125@live.missouristate.edu
+
+## Grading Criteria
+Opening your pull request before the due date, addressing any comments or feedback on that pull 
+request, then merging it within 2 days is worth a full 10 points.
+
+Points will be deducted for opening the pull request late (1 point lost each day) or for failing to
+address pull request review comments (1 point lost per day after the post-review 2-day grace 
+period).
+
+Basically, open the PR before the due date and address any issues found promptly and you'll be fine.
+
+## Post-Assignment Recommendations
 We're just barely scratching the surface of development here, most of our work is just getting used
 to the process of setting up a new project. 
 
