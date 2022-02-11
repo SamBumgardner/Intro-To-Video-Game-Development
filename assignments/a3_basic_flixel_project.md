@@ -143,7 +143,7 @@ to fix any issues that arise.
 After your changes are merged and your local repo's up-to-date, you're done!
 
 ## Due Date 
-Friday, 2/14/2022 @ 5:30 PM 
+Monday, 2/14/2022 @ 5:30 PM 
 
 ## Deliverables
 There's no external deliverable attached to this assignment. The act of opening a pull request is
