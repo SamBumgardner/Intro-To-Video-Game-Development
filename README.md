@@ -9,7 +9,6 @@
    * Jan. 19th [Code Collaboration Discussion](lectures/class_discussion/code_collaboration_strategies.md)
  * Class Exercises
    * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
-   * Feb. 9th [A Basic HaxeFlixel Project](lectures/exercises/e2_basic_flixel_project.md)
  * Lecture Slides
    * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
    * [2-2: Collaborating with Git](https://docs.google.com/presentation/d/1fWNFHAkDh2oXK_qIt8i9iSiDnyxicIRgQKlp-VgyYDY/edit?usp=sharing)
@@ -22,7 +21,10 @@
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
    Due Monday, 1/24/2021 @ 11:59 PM
- * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Friday, 2/4/2021 @ 11:59 PM
+ * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - 
+   Due Friday, 2/4/2021 @ 11:59 PM
+ * [Assignment 3: A Basic HaxeFlixel Project](assignments/a3_basic_flixel_project.md) - 
+   Due Monday, 2/14/2021 @ 5:30 PM
 
 ### Projects
  * [Haxeflixel Project](projects/midterm.md)
