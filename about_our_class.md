@@ -7,7 +7,6 @@ I like to go sailing on the weekends, but my true passion is collecting dryer li
  * I like making markdown lists, they're pretty cool.
  * Especially if my IDE supports previewing markdown (Visual Studio Code does)
  * If you're unfamiliar with Markdown, now's a great time to try things out!
-
 ## John Lorette III
 Hi, my name is John Lorette III.
 I have a variety of hobbies and/or 'passions':
@@ -48,3 +47,12 @@ Hello, I'm Liam Andrade. I'm a 2nd semester transfer student to MSU. I enjoy pro
 
  * i have a githubio >> https://kralinc.github.io
  * yeah
+
+ ## Jessica Dean
+ Hello, I'm Jessica Dean. 
+ I like to play games with my family and friends, especially card games. Some of my favorites are
+ * Speed
+ * Nertz
+ * Spades
+ * Pinochle
+ I like other games too, but I am especially fond of card games and like to keep cards with me just in case. :)
