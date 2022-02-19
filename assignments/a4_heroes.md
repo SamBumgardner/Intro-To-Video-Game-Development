@@ -97,24 +97,24 @@ before moving on to the next part.
  instantiated and added to the state in assignment 2.
 
 #### Part 3: BONUS 
-Completing these tasks is optional. Each task completed is worth 1 extra point, 
- though the total score for the assignment cannot exceed 12 out of 10.
-    * Create a `Wall` class, add several to the `PlayState` and make them immovable obstacles that
+Completing these tasks is optional. Each task completed is worth 1 extra point, though the total 
+score for the assignment cannot exceed 12 out of 10.
+ 1. Create a `Wall` class, add several to the `PlayState` and make them immovable obstacles that
     block the `ControllableHero`'s movement.
-        * Make `Wall` extend `FlxSprite`, so it can use the [`immovable` property](https://api.haxeflixel.com/flixel/FlxObject.html#immovable) 
-        to keep them from getting pushed around during collision.
-        * Use [`FlxG.collide()`](https://api.haxeflixel.com/flixel/FlxG.html#collide) to handle 
-        collision between the `ControllableHero` and `Wall`s. Since both need to be passed into the
-        method, it'll be easiest to do this inside the `PlayState`'s `update()` method
-    * Add logic to the `PlayState` to check for overlaps between our `ControllableHero` and the
+    * Make `Wall` extend `FlxSprite`, so it can use the [`immovable` property](https://api.haxeflixel.com/flixel/FlxObject.html#immovable) 
+    to keep them from getting pushed around during collision.
+    * Use [`FlxG.collide()`](https://api.haxeflixel.com/flixel/FlxG.html#collide) to handle 
+    collision between the `ControllableHero` and `Wall`s. Since both need to be passed into the
+    method, it'll be easiest to do this inside the `PlayState`'s `update()` method
+ 2. Add logic to the `PlayState` to check for overlaps between our `ControllableHero` and the
     `ScreensaverHero` objects we made earlier. 
-        * Use [FlxG.overlap()](https://api.haxeflixel.com/flixel/FlxG.html#overlap) to notice when
-        the objects touch and execute the custom logic. 
-        * The `NotifyCallback` parameter on that method should be a reference to a function - the
-        thing you want to have called if the overlap is detected.
-        * The behavior that is in that `NotifyCallback` function can be anything you want - log a 
-        message with `trace()`, `kill()` some of the objects involved, increase a `score` variable 
-        you've added to the `PlayState` - anything is fine.
+    * Use [FlxG.overlap()](https://api.haxeflixel.com/flixel/FlxG.html#overlap) to notice when
+    the objects touch and execute the custom logic. 
+    * The `NotifyCallback` parameter on that method should be a reference to a function - the
+    thing you want to have called if the overlap is detected.
+    * The behavior that is in that `NotifyCallback` function can be anything you want - log a 
+    message with `trace()`, `kill()` some of the objects involved, increase a `score` variable 
+    you've added to the `PlayState` - anything is fine.
 
 #### Part 3: Wrap Up
 Test your work by running `lime test neko` from a terminal in your project's root directory.
