@@ -10,13 +10,15 @@
  * Class Exercises
    * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
  * Lecture Slides
-   * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
-   * [2-2: Collaborating with Git](https://docs.google.com/presentation/d/1fWNFHAkDh2oXK_qIt8i9iSiDnyxicIRgQKlp-VgyYDY/edit?usp=sharing)
-   * [2-3: Fork-and-Branch Contribution with Git](https://docs.google.com/presentation/d/1kDT7THm1McMEHkb7dtivV_1u5yDohQHhODZqOeO9hsY/edit?usp=sharing)
-   * [3-1: Introduction to Haxe](https://docs.google.com/presentation/d/1vGgZyPblcR40ZwNqnSl1biyXQIarP_rFbfpXRBvdOVc/edit?usp=sharing)
-   * [3-2: Game Engines](https://docs.google.com/presentation/d/1BVYgPPEwV8UTX37kkWcz8cyLa5FGoHoFkB5DDFMNu8k/edit?usp=sharing)
-   * [3-3: Using HaxeFlixel](https://docs.google.com/presentation/d/1XafnvomMcqsNymR8TkAa1oEMtXFg5bs4JPQiJI9LXAU/edit?usp=sharing)
-   * [3-4: Movement, Collision, and Input in HaxeFlixel](https://docs.google.com/presentation/d/12bjZwBrXex_cqsRUurj6JhhsAAf3mny7ENCq9YzIoDg/edit?usp=sharing)
+   * Understanding Git Usage:
+     * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
+     * [2-2: Collaborating with Git](https://docs.google.com/presentation/d/1fWNFHAkDh2oXK_qIt8i9iSiDnyxicIRgQKlp-VgyYDY/edit?usp=sharing)
+     * [2-3: Fork-and-Branch Contribution with Git](https://docs.google.com/presentation/d/1kDT7THm1McMEHkb7dtivV_1u5yDohQHhODZqOeO9hsY/edit?usp=sharing)
+   * Introduction to Engines and HaxeFlixel:
+     * [3-1: Introduction to Haxe](https://docs.google.com/presentation/d/1vGgZyPblcR40ZwNqnSl1biyXQIarP_rFbfpXRBvdOVc/edit?usp=sharing)
+     * [3-2: Game Engines](https://docs.google.com/presentation/d/1BVYgPPEwV8UTX37kkWcz8cyLa5FGoHoFkB5DDFMNu8k/edit?usp=sharing)
+     * [3-3: Using HaxeFlixel](https://docs.google.com/presentation/d/1XafnvomMcqsNymR8TkAa1oEMtXFg5bs4JPQiJI9LXAU/edit?usp=sharing)
+     * [3-4: Movement, Collision, and Input in HaxeFlixel](https://docs.google.com/presentation/d/12bjZwBrXex_cqsRUurj6JhhsAAf3mny7ENCq9YzIoDg/edit?usp=sharing)
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
