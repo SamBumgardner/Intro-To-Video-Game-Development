@@ -52,7 +52,7 @@ before moving on to the next part.
  rectangle graphic.
     * Don't forget to call its parent's constructor with `super()` before you try to use inherited
     methods.
- 4. Inside the `ScreensaverHero`'s `update()` function, set the its 
+ 4. Inside the `ScreensaverHero`'s `update()` function, set its 
  [`color` property](https://api.haxeflixel.com/flixel/FlxSprite.html#color) to a value that is 
  somehow determined by screen position (how is up to you).
     * Look at the `PlayState` class for an example of overriding and update function.
@@ -61,7 +61,10 @@ before moving on to the next part.
     if you prefer.
  5. Make `ScreensaverHero`s move automatically each frame.
  6. Randomize the direction of its movement when it is created.
- 7. Add multiple `ScreensaverHero` objects to the `PlayState`. Because their movement is randomized
+    * Check out the statically available [`FlxG.random`](https://api.haxeflixel.com/flixel/FlxG.html#random) 
+    property for a straightforward way to generate random numbers. For documentation on its methods, see 
+    the [FlxRandom class in the API reference](https://api.haxeflixel.com/flixel/math/FlxRandom.html).
+ 8. Add multiple `ScreensaverHero` objects to the `PlayState`. Because their movement is randomized
  at creation time, even if they start in the same position they should split up quickly.
 
 #### Part 2: BONUS
