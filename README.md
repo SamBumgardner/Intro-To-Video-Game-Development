@@ -34,7 +34,7 @@
    Due Wednesday, 2/23/2022 @ 5:30 PM
 
 ### Projects
- * [Haxeflixel Project](projects/midterm.md)
+ * [CSC-303-game-2022 Contribution Project](projects/midterm.md)
  * [Ludum Dare 50](projects/ludum_dare.md)
  * [Final Project](projects/final.md)
 
