@@ -52,10 +52,10 @@ include the following information in some kind of text file:
  for each).
  3. List of existing classes you expect to update
  4. List of new classes you expect to create
-   * For each new class, specify what parent class you think it should inherit from
+    * For each new class, specify what parent class you think it should inherit from
  5. (Optional) Write out additional details of your implementation.
-   * Anything you put down in words here is something that we can discuss before you get started. 
-   Getting early feedback on the design means we both can have an easier path through this project.
+    * Anything you put down in words here is something that we can discuss before you get started. 
+    Getting early feedback on the design means we both can have an easier path through this project.
  6. Short discussion of how this new content will interact with or build off of existing content.
 
 To submit the proposal, attach the file you created to an email and send it to 
