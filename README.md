@@ -36,7 +36,12 @@
    Due Wednesday, 2/23/2022 @ 5:30 PM
 
 ### Projects
- * [Haxeflixel Project](projects/midterm.md)
+ * [csc-303-game-2022 Contribution Project](projects/midterm.md)
+   * **Proposal** due Wednesday, 3/9/2022 @ 5:30 PM
+   * **Progress / Plan Checkpoint** on Monday, 3/21/2022 during class
+   * **PR Submittal** due Friday, 3/25/2022 @ 11:59
+   * **PR Review, Approval, Merge** due Monday, 3/28/2022 @ 5:30 PM 
+   * **Project Reflection** due Wednesday, 3/30/2022 @ 11:59 PM
  * [Ludum Dare 50](projects/ludum_dare.md)
  * [Final Project](projects/final.md)
 
