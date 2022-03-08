@@ -104,13 +104,13 @@ After you have a sprite sheet, the code starts similarly to how we handled a "st
 Here's how the process differs:
  1. In `LoadGraphic()` Set `Animated` parameter to true, and `Width` and `Height` to width and 
  height of an individual frame in pixels. 
-   * This prepares each frame of animation for use, but the game doesn't know how to use them (yet).
+    * This prepares each frame of animation for use, but the game doesn't know how to use them (yet).
  2. Set up each animation that want to be able to play. This is handled through the 
  `FlxAnimationController` class. Each `FlxSprite` has one created and assigned to its `animation` 
  variable (it's almost like the component pattern!).
-   * To do this, call [`animation.add()`](https://api.haxeflixel.com/flixel/animation/FlxAnimationController.html#add) 
-   to set up a new animation. Make sure that you remember what you pass in as the `name` argument 
-   each time (or better yet, make it a static, constant variable).
+    * To do this, call [`animation.add()`](https://api.haxeflixel.com/flixel/animation/FlxAnimationController.html#add) 
+    to set up a new animation. Make sure that you remember what you pass in as the `name` argument 
+    each time (or better yet, make it a static, constant variable).
 
 An example of how this could look in code:
 ```
@@ -148,11 +148,11 @@ Anything much fancier than that will need some legwork to make happen.
 Here's how we'll work with the basics:
  1. Access a shared instance of [`SoundFrontEnd`](https://api.haxeflixel.com/flixel/system/frontEnds/SoundFrontEnd.html) 
  via `FlxG`'s static fields
-   * `FlxG.sound`
+    * `FlxG.sound`
  2. (OPTIONAL) Use the [`cache()` function](https://api.haxeflixel.com/flixel/system/frontEnds/SoundFrontEnd.html#cache) 
  to prepare sounds before they're needed.
-   * Use `AssetPaths` to get a reference to a sound file stored in your `assets/` directory, that's 
-   what should be passed as `EmbeddedSound`
+    * Use `AssetPaths` to get a reference to a sound file stored in your `assets/` directory, that's 
+    what should be passed as `EmbeddedSound`
  1. For simplest usage, you can just use the `SoundFrontEnd`'s [`play()` method](https://api.haxeflixel.com/flixel/system/frontEnds/SoundFrontEnd.html#play). 
  It'll attempt to load the sound if it wasn't loaded before, then it'll play it according to the 
  provided parameters.
