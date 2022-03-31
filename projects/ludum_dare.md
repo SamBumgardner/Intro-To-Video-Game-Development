@@ -18,32 +18,19 @@ regardless of the outcome.
 The project is worth 20% of your total grade, and it's included as a sort of frantic, real-world
 test of everything we've learned so far. 
 
-The majority of the project grade is split between pre-game jam preparation and post-game jam 
-reflection, however. This isn't to de-incentivize finishing a game, it's more of a concession to 
-the fact that this is a pretty difficult thing for a 1-credit hour class to ask of you.
+The project grade is split between the actual work of participating in the game jam and the
+post-jam reflection. Originally the plan was to offload more of the grade from the jam itself
+to reduce pressure, but the timing didn't end up working out in a favorable way to support it.
 
-Assignment                            | Due Date            | Grade
-------------------------------------- | ------------------- | ----------------------
-Pre-game jam preparation write-up     | 3/27/2022 @ 5:30 PM | 30% of assignment grade
-Completed game uploaded to Ludum Dare | 4/4/2022            | 20% of assignment grade
-Post-game jam reflection write-up     | 4/6/2022            | 50% of assignment grade
+Assignment                                                               | Due Date | Grade
+------------------------------------------------------------------------ | -------- | ----------------------
+Completed (or well-attempted and incomplete) game uploaded to Ludum Dare | 4/4/2022 | 50% of assignment grade
+Post-game jam reflection write-up                                        | 4/6/2022 | 50% of assignment grade
 
 ## Objective
 Participate in Ludum Dare 50, and get some valuable real-world experience along the way.
 
 ## Specifications
-### Pre-game jam preparation write-up
-Create a markdown file named `<insert_your_name>_LD_preparation.md` that answers the following 
-questions:
- 1. What is your Ludum Dare username? Please include a link to your profile page.
- 2. Do you plan on working on a team? If so, who will you work with?
- 3. What technology or tools are you planning on using for game development? This includes things
-    like your game engine that you use for programming, but could also include tools for sound and
-    art or repositories of royalty-free content that you plan on using to populate your game.
- 4. How do you plan on using your time this weekend? Write up a rough schedule (at least day-by-day
-    breakdown of how much you expect to get done) for use during the jam and for our review 
-    afterward.
-
 ### Project
  * Students may join the game jam in a team with other students or people outside of the class.
    The student's plan for selecting teammates (if applicable) must be outlined in the pre-game jam
