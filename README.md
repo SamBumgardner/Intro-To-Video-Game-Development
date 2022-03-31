@@ -19,6 +19,8 @@
      * [3-2: Game Engines](https://docs.google.com/presentation/d/1BVYgPPEwV8UTX37kkWcz8cyLa5FGoHoFkB5DDFMNu8k/edit?usp=sharing)
      * [3-3: Using HaxeFlixel](https://docs.google.com/presentation/d/1XafnvomMcqsNymR8TkAa1oEMtXFg5bs4JPQiJI9LXAU/edit?usp=sharing)
      * [3-4: Movement, Collision, and Input in HaxeFlixel](https://docs.google.com/presentation/d/12bjZwBrXex_cqsRUurj6JhhsAAf3mny7ENCq9YzIoDg/edit?usp=sharing)
+   * Preparing for Ludum Dare 50:
+     * [4-1: Keys to a Successful Game Jam](https://docs.google.com/presentation/d/1Sc-TCky9k-4dmZdhni7iRWtNxOpMXKyNM8z3cymtUig/edit?usp=sharing)
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
