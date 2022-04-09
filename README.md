@@ -46,6 +46,7 @@
    * **Project Reflection** due Wednesday, 3/30/2022 @ 11:59 PM
  * [Ludum Dare 50](projects/ludum_dare.md)
  * [Final Project](projects/final.md)
+   * [Final Project Proposal](projects/final_project_proposal.md) due Monday, 4/18/2022 @ 5:30 PM
 
 ### Reference Material
  * Git and GitHub
