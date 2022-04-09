@@ -28,8 +28,8 @@ following information:
     * It's best if you have a rough idea of how these would work as well, but you can get away with
       them being a bit less well-defined - if they fall through, you still have your core game intact.
  10. List of bonus features: 
-    * These are things that would be nice to have, but are definitely non-essential. After 'core' 
-      and 'secondary' features are complete, these take priority.
+     * These are things that would be nice to have, but are definitely non-essential. After 'core' 
+       and 'secondary' features are complete, these take priority.
  11. Realistic goals/expectations for the ~4 weeks of work on the project
 
 If some kind of visual aid would assist in explaining your game concept, feel free to draw some 
