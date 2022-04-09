@@ -16,10 +16,10 @@ We'll use each meeting to discuss your progress and re-assess our initial goals.
 
 Assignment                                                           | Due Date            | Grade
 -------------------------------------------------------------------- | ------------------- | ----------------------
-Checkpoint 1 - Project proposal                                      | 4/22/2022           | 5% of assignment grade
-Checkpoint 2 - Review progress, determine reasonable changes to goal | 4/29/2022           | 5% of assignment grade
-Checkpoint 3 - Review progress, finalize end-goal for project        | 5/6/2022            | 5% of assignment grade
-Checkpoint 4 - Panic check, prepare for final presentation           | 5/13/2022           | 5% of assignment grade
+Checkpoint 1 - Project proposal                                      | 4/18/2022 @ 5:30    | 5% of assignment grade
+Checkpoint 2 - Review progress, determine reasonable changes to goal | 4/25/2022 @ 5:30    | 5% of assignment grade
+Checkpoint 3 - Review progress, finalize end-goal for project        | 5/2/2022 @ 5:30     | 5% of assignment grade
+Checkpoint 4 - Panic check, discuss for final presentation           | 5/9/2022 @ 5:30     | 5% of assignment grade
 Final project turn-in and presentation                               | 5/16/2022 @ 5:45 PM | 80% of assignment grade
 
 ## Objective
@@ -36,7 +36,8 @@ To help you get started:
  5. Using your engine of choice, add the basic project template to your repository directory.
 
 ## Specifications
- * The project must be built using HaxeFlixel or Godot.
+ * The project must be built using HaxeFlixel or Godot. If you'd prefer to use a different engine /
+   toolset, discuss with me ASAP.
  * The project's repository must have a README which includes an overview, how-to-play instructions,
    and a screenshot of the game.
  * The project's repository must either link to an online demo of the game or provide a downloadable
