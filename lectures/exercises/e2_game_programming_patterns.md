@@ -51,3 +51,7 @@ up into sections that address the following points:
     people who haven't played the game before.
     * Links to videos of gameplay and/or screenshots are not required, but may be useful to 
     give visual context to folks unfamilar with the game.
+
+## Submission Instructions
+Send an email with your completed `gpp_<insert_your_name>_<insert your_pattern_name>.md` file 
+attached to bumgardner125@live.missouristate.edu
