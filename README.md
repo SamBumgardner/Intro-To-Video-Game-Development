@@ -9,6 +9,7 @@
    * Jan. 19th [Code Collaboration Discussion](lectures/class_discussion/code_collaboration_strategies.md)
  * Class Exercises
    * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
+   * Apr. 10th-13th [Exploring Game Programming Patterns](lectures/exercises/e2_game_programming_patterns.md)
  * Lecture Slides
    * Understanding Git Usage:
      * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
