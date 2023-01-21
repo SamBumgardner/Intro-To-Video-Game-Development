@@ -1,28 +1,29 @@
-# CSC 303 - Spring 2022 - Haxeflixel Midterm Project
-
-## Purpose
-We've been set back a bit by snow days, so we're going to deviate from our original plan for making 
-a full game in Haxeflixel for our midterm project. Instead we'll get a miniature version of the 
-whole experience by collaboratively adding feature's to the newly made 
-[csc-303-game-2022](https://github.com/SamBumgardner/csc-303-game-2022) repository
-
-## Due Dates
-This project is worth 20% of the class's total grade and our work time is stretched across several
-weeks. The scale of this project isn't too large, but we still have some staggered due dates to
-help keep everyone on-rails for our first real self-guided work.
-
-Assignment                                                           | Due Date              | Grade
--------------------------------------------------------------------- | --------------------  | ----------------------
-Checkpoint 1 - Feature proposal                                      | 3/9/2022 @ 5:30 PM    | 10% of assignment grade
-Spring Break - No work required / expected (have fun!)               | 3/14/2022 - 3/20/2022 | N/A
-Checkpoint 2 - Review progress & plan                                | 3/21/2022 (classtime) | 10% of assignment grade
-Checkpoint 3 - Pull Requests opened, ready for review                | 3/25/2022 @ 11:59     | 10% of assignment grade
-Pull Request reviewed, approved, and merged                          | 3/28/2022 @ 5:30 PM   | 60% of assignment grade
-Project review / reflection                                          | 3/30/2022 @ 11:59 PM  | 10% of assignment grade
+# CSC 303 - Spring 2023 - Collaborative Haxeflixel Midterm Project
 
 ## Objective
 Propose, design and implement an interesting feature for the shared class game in the 
-[csc-303-game-2022](https://github.com/SamBumgardner/csc-303-game-2022) repository.
+[csc-303-game-2023](https://github.com/SamBumgardner/csc-303-game-2023) repository.
+
+## Purpose
+This project marks our first foray into collaborative game development! Expect it 
+to be a bit messy and fraught with unexpected complications - there's plenty you'll learn by 
+doing that's difficult to capture theoretically.
+
+Our goal isn't really to make the best game ever. For this project, we want to make something small 
+(and hopefully fun!) that lets us test what we've learned so far.
+
+## Due Dates
+This project is worth 20% of the class's total grade and our work time is stretched across several
+weeks. To limit procrastination and make sure you don't end up in a crunch at the end, we'll hold 
+weekly checkpoint meetings to discuss your progress and re-assess our initial goals.
+
+Assignment                                                           | Due Date             | Grade
+-------------------------------------------------------------------- | -------------------- | ----------------------
+Checkpoint 1 - Feature proposal                                      | 2/23/2023 @ 5:30 PM  | 5% of assignment grade
+Checkpoint 2 - Review progress, determine reasonable changes to goal | 2/27/2023            | 5% of assignment grade
+Checkpoint 3 - Pull Request opened, ready for review                 | 3/6/2023 @ 5:30 PM   | 5% of assignment grade
+Pull Request reviewed, approved, and merged                          | 3/8/2023 @ 11:59 PM  | 75% of assignment grade
+Project review / reflection                                          | 3/20/2023 @ 11:59 PM | 10% of assignment grade
 
 ## Project Setup
 Use the fork-and-branch strategy we discussed earlier in the class to prepare your contribution to
