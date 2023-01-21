@@ -16,9 +16,9 @@ We'll use each meeting to discuss your progress and re-assess our initial goals.
 
 Assignment                                                           | Due Date            | Grade
 -------------------------------------------------------------------- | ------------------- | ----------------------
-Checkpoint 1 - Project proposal                                      | 4/17/2022 @ 5:30    | 5% of assignment grade
-Checkpoint 2 - Review progress, determine reasonable changes to goal | 4/24/2022 @ 5:30    | 5% of assignment grade
-Checkpoint 3 - Review progress, finalize end-goal for project        | 5/1/2022 @ 5:30     | 5% of assignment grade
+Checkpoint 1 - Project proposal                                      | 4/17/2023 @ 5:30    | 5% of assignment grade
+Checkpoint 2 - Review progress, determine reasonable changes to goal | 4/24/2023 @ 5:30    | 5% of assignment grade
+Checkpoint 3 - Review progress, finalize end-goal for project        | 5/1/2023 @ 5:30     | 5% of assignment grade
 Checkpoint 4 - Panic check, discuss for final presentation           | 5/8/2023 @ 5:30     | 5% of assignment grade
 Final project turn-in and presentation                               | 5/15/2023 @ 5:45 PM | 80% of assignment grade
 
