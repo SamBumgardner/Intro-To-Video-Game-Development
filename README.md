@@ -29,18 +29,18 @@
 
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
-   Due Wednesday, 1/25/2022 @ 5:30 PM
+   Due Wednesday, 1/25/2023 @ 5:30 PM
 
 ### Projects
  * [Midterm Game Project](projects/midterm.md)
    * **Proposal** due Wednesday, 2/23/2023 @ 5:30 PM
    * **Progress / Plan Checkpoint** on Monday, 2/27/2023 during class
-   * **PR Submittal** due Monday, 3/6/2022 @ 11:59
+   * **PR Submittal** due Monday, 3/6/2023 @ 11:59
    * **PR Review, Approval, Merge** due Wednesday, 3/8/2023 @ 11:59 PM 
-   * **Project Reflection** due Monday, 3/20/2022 @ 11:59 PM (Early Turn-in Recommended)
+   * **Project Reflection** due Monday, 3/20/2023 @ 11:59 PM (Early Turn-in Recommended)
  * [Mini Jam Project](projects/mini_jam.md)
  * [Final Project](projects/final.md)
-   * [Final Project Proposal](projects/final_project_proposal.md) due Monday, 4/18/2022 @ 5:30 PM
+   * [Final Project Proposal](projects/final_project_proposal.md) due Monday, 4/18/2023 @ 5:30 PM
 
 ### Reference Material
  * Git and GitHub

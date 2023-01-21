@@ -129,8 +129,8 @@ I don't expect there to be any grade-curving in this class, but I reserve the ri
 consider it necessary.
 
 An “W” grade for this course cannot be assigned after the deadline in the 
-[academic calendar](https://www.missouristate.edu/Registrar/2021-2022-academic-calendar.htm#spring),
-April 18th, 2022.
+[academic calendar](https://www.missouristate.edu/Registrar/2022-2023-academic-calendar.htm#spring),
+April 21st, 2023.
 
 #### Assignments and Exercises
 A typical semester will involve 5-6 graded homework assignments and class exercises. Please note 

@@ -1,4 +1,4 @@
-# CSC 303 - Spring 2022 - Collaborative Haxeflixel Midterm Project
+# CSC 303 - Spring 2023 - Collaborative Haxeflixel Midterm Project
 
 ## Objective
 Propose, design and implement an interesting feature for the shared class game in the 

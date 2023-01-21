@@ -1,4 +1,4 @@
-# CSC 303 - Spring 2022 - Final Project
+# CSC 303 - Spring 2023 - Final Project
 
 ## Purpose
 The result of this project represents everything we've learned in the class. By creating a game 

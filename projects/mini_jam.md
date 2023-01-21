@@ -1,4 +1,4 @@
-# CSC 303 - Spring 2022 - Mini Jam
+# CSC 303 - Spring 2023 - Mini Jam
 
 ## Purpose
 Though we've already made a small-scale game for this class, participating in a game jam is a very
@@ -24,8 +24,8 @@ to reduce pressure, but the timing didn't end up working out in a favorable way 
 
 Assignment                                                                         | Due Date | Grade
 ---------------------------------------------------------------------------------- | -------- | ----------------------
-Completed (or well-attempted and incomplete) game created and submitted to Mini Jam| 4/2/2022 | 50% of assignment grade
-Post-game jam reflection write-up                                                  | 4/5/2022 | 50% of assignment grade
+Completed (or well-attempted and incomplete) game created and submitted to Mini Jam| 4/2/2023 | 50% of assignment grade
+Post-game jam reflection write-up                                                  | 4/5/2023 | 50% of assignment grade
 
 ## Objective
 Participate in [Mini Jam](https://minijamofficial.com/), and get some valuable real-world experience along the way.
