@@ -32,12 +32,10 @@ Work through the to-do list and specifications below to complete the assignment.
      the git-related questions.
 
 ## Due Date 
-Wednesday, 1/25/2021 @ 5:30 PM 
+Monday, 1/24/2021 @ 11:59 PM 
 
-Our lecture on Wednesday will involve a more in-depth discussion about how GitHub works, and (time
-permitting) should also include an exercise that involves us committing code to a shared repository.
-Completing this assignment ahead of time ensures we're all prepared to particpate, so please make
-time for it before Wednesday's class.
+I'd be very happy if you could complete it before class, but I figured it'd be better to have some
+extra wiggle room since the assignment was sent out Friday evening.
 
 ## Deliverables 
 Create a file named `<your_name>_git_review.txt` that responds to the following questions:

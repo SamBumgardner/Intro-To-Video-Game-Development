@@ -6,10 +6,9 @@
 
 ## Course Content
  * Class Discussion
-   * Jan. 19th [Code Collaboration Discussion](lectures/class_discussion/code_collaboration_strategies.md)
+   * Jan. 25th [Code Collaboration Discussion](lectures/class_discussion/code_collaboration_strategies.md)
  * Class Exercises
-   * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
-   * Apr. 10th-13th [Exploring Game Programming Patterns](lectures/exercises/e2_game_programming_patterns.md)
+   * Jan. 25th [About Our Class](lectures/exercises/e1_about_our_class.md)
  * Lecture Slides
    * Understanding Git Usage:
      * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
@@ -20,7 +19,7 @@
      * [3-2: Game Engines](https://docs.google.com/presentation/d/1BVYgPPEwV8UTX37kkWcz8cyLa5FGoHoFkB5DDFMNu8k/edit?usp=sharing)
      * [3-3: Using HaxeFlixel](https://docs.google.com/presentation/d/1XafnvomMcqsNymR8TkAa1oEMtXFg5bs4JPQiJI9LXAU/edit?usp=sharing)
      * [3-4: Movement, Collision, and Input in HaxeFlixel](https://docs.google.com/presentation/d/12bjZwBrXex_cqsRUurj6JhhsAAf3mny7ENCq9YzIoDg/edit?usp=sharing)
-   * Preparing for Ludum Dare 50:
+   * Preparing for Mini Jam:
      * [4-1: Keys to a Successful Game Jam](https://docs.google.com/presentation/d/1Sc-TCky9k-4dmZdhni7iRWtNxOpMXKyNM8z3cymtUig/edit?usp=sharing)
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
@@ -30,22 +29,16 @@
 
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
-   Due Monday, 1/24/2022 @ 11:59 PM
- * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - 
-   Due Friday, 2/4/2022 @ 11:59 PM
- * [Assignment 3: A Basic HaxeFlixel Project](assignments/a3_basic_flixel_project.md) - 
-   Due Monday, 2/14/2022 @ 5:30 PM
- * [Assignment 4: Creating Heroes with Varied Behavior](assignments/a4_heroes.md) - 
-   Due Wednesday, 2/23/2022 @ 5:30 PM
+   Due Wednesday, 1/25/2022 @ 5:30 PM
 
 ### Projects
- * [csc-303-game-2022 Contribution Project](projects/midterm.md)
-   * **Proposal** due Wednesday, 3/9/2022 @ 5:30 PM
-   * **Progress / Plan Checkpoint** on Monday, 3/21/2022 during class
-   * **PR Submittal** due Friday, 3/25/2022 @ 11:59
-   * **PR Review, Approval, Merge** due Monday, 3/28/2022 @ 5:30 PM 
-   * **Project Reflection** due Wednesday, 3/30/2022 @ 11:59 PM
- * [Ludum Dare 50](projects/ludum_dare.md)
+ * [Midterm Game Project](projects/midterm.md)
+   * **Proposal** due Wednesday, 2/23/2023 @ 5:30 PM
+   * **Progress / Plan Checkpoint** on Monday, 2/27/2023 during class
+   * **PR Submittal** due Monday, 3/6/2022 @ 11:59
+   * **PR Review, Approval, Merge** due Wednesday, 3/8/2023 @ 11:59 PM 
+   * **Project Reflection** due Monday, 3/20/2022 @ 11:59 PM (Early Turn-in Recommended)
+ * [Mini Jam Project](projects/mini_jam.md)
  * [Final Project](projects/final.md)
    * [Final Project Proposal](projects/final_project_proposal.md) due Monday, 4/18/2022 @ 5:30 PM
 
@@ -75,7 +68,6 @@
  * [HaxeFlixel Download and Setup](http://haxeflixel.com/documentation/getting-started/) 
    * includes links to install the appropriate Haxe development environment and an effective IDE (Visual Studio Code recommended)
  * [Godot Download](https://godotengine.org/download)
-
 
 ### Class Discord
 * Invite link available on request - send [@SamBumgardner](https://github.com/SamBumgardner) an email and we'll figure it out.

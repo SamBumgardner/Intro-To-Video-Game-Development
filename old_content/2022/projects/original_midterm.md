@@ -15,11 +15,11 @@ weekly checkpoint meetings to discuss your progress and re-assess our initial go
 
 Assignment                                                           | Due Date             | Grade
 -------------------------------------------------------------------- | -------------------- | ----------------------
-Checkpoint 1 - Project proposal                                      | 2/23/2023 @ 5:30 PM  | 5% of assignment grade
-Checkpoint 2 - Review progress, determine reasonable changes to goal | 2/27/2023            | 5% of assignment grade
-Checkpoint 3 - Review progress, finalize end-goal for project        | 3/6/2023             | 5% of assignment grade
-Project turn-in and presentation                                     | 3/8/2023 @ 5:30 PM   | 75% of assignment grade
-Project review / reflection                                          | 3/20/2023 @ 11:59 PM | 10% of assignment grade
+Checkpoint 1 - Project proposal                                      | 2/18/2022            | 5% of assignment grade
+Checkpoint 2 - Review progress, determine reasonable changes to goal | 2/25/2022            | 5% of assignment grade
+Checkpoint 3 - Review progress, finalize end-goal for project        | 3/4/2022             | 5% of assignment grade
+Project turn-in and presentation                                     | 3/9/2022 @ 5:30 PM   | 75% of assignment grade
+Project review / reflection                                          | 3/21/2022 @ 11:59 PM | 10% of assignment grade
 
 ## Objective
 Fully implement a game of your own design.

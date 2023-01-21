@@ -36,7 +36,7 @@ If some kind of visual aid would assist in explaining your game concept, feel fr
 pictures to attach to the email submission - reference them where it's useful and I'll get the idea.
 
 ## Due Date 
-Monday, 4/17/2022 @ 5:30 PM 
+Monday, 4/18/2022 @ 5:30 PM 
 
 ## Submission Instructions
 Send an email with your `<insert_your_name>_final_project_proposal.md` file attached to 
