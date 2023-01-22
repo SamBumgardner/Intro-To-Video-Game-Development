@@ -25,7 +25,7 @@ to reduce pressure, but the timing didn't end up working out in a favorable way 
 Assignment                                                                         | Due Date | Grade
 ---------------------------------------------------------------------------------- | -------- | ----------------------
 Completed (or well-attempted and incomplete) game created and submitted to Mini Jam| 4/2/2023 | 50% of assignment grade
-Post-game jam reflection write-up                                                  | 4/5/2023 | 50% of assignment grade
+Post-game jam reflection write-up                                                  | 4/6/2023 | 50% of assignment grade
 
 ## Objective
 Participate in [Mini Jam](https://minijamofficial.com/), and get some valuable real-world experience along the way.

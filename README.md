@@ -6,9 +6,8 @@
 
 ## Course Content
  * Class Discussion
-   * Jan. 25th [Code Collaboration Discussion](lectures/class_discussion/code_collaboration_strategies.md)
  * Class Exercises
-   * Jan. 25th [About Our Class](lectures/exercises/e1_about_our_class.md)
+   * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
  * Lecture Slides
    * Understanding Git Usage:
      * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
@@ -29,18 +28,18 @@
 
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
-   Due Wednesday, 1/25/2023 @ 5:30 PM
+   Due Thursday, 1/26/2023 @ 5:30 PM
 
 ### Projects
  * [Midterm Game Project](projects/midterm.md)
-   * **Proposal** due Wednesday, 2/23/2023 @ 5:30 PM
-   * **Progress / Plan Checkpoint** on Monday, 2/27/2023 during class
-   * **PR Submittal** due Monday, 3/6/2023 @ 11:59
-   * **PR Review, Approval, Merge** due Wednesday, 3/8/2023 @ 11:59 PM 
-   * **Project Reflection** due Monday, 3/20/2023 @ 11:59 PM (Early Turn-in Recommended)
+   * **Proposal** due Thursday, 2/24/2023 @ 5:30 PM
+   * **Progress / Plan Checkpoint** on Tuesday, 2/28/2023 during class
+   * **PR Submittal** due Tuesday, 3/7/2023 @ 11:59
+   * **PR Review, Approval, Merge** due Thursday, 3/9/2023 @ 11:59 PM 
+   * **Project Reflection** due Tuesday, 3/21/2023 @ 11:59 PM (Early Turn-in Recommended)
  * [Mini Jam Project](projects/mini_jam.md)
  * [Final Project](projects/final.md)
-   * [Final Project Proposal](projects/final_project_proposal.md) due Monday, 4/18/2023 @ 5:30 PM
+   * [Final Project Proposal](projects/final_project_proposal.md) due Tuesday, 4/19/2023 @ 5:30 PM
 
 ### Reference Material
  * Git and GitHub

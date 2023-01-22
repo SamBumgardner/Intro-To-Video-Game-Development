@@ -19,11 +19,11 @@ weekly checkpoint meetings to discuss your progress and re-assess our initial go
 
 Assignment                                                           | Due Date             | Grade
 -------------------------------------------------------------------- | -------------------- | ----------------------
-Checkpoint 1 - Feature proposal                                      | 2/23/2023 @ 5:30 PM  | 5% of assignment grade
-Checkpoint 2 - Review progress, determine reasonable changes to goal | 2/27/2023            | 5% of assignment grade
-Checkpoint 3 - Pull Request opened, ready for review                 | 3/6/2023 @ 5:30 PM   | 5% of assignment grade
-Pull Request reviewed, approved, and merged                          | 3/8/2023 @ 11:59 PM  | 75% of assignment grade
-Project review / reflection                                          | 3/20/2023 @ 11:59 PM | 10% of assignment grade
+Checkpoint 1 - Feature proposal                                      | 2/24/2023 @ 5:30 PM  | 5% of assignment grade
+Checkpoint 2 - Review progress, determine reasonable changes to goal | 2/28/2023            | 5% of assignment grade
+Checkpoint 3 - Pull Request opened, ready for review                 | 3/7/2023 @ 5:30 PM   | 5% of assignment grade
+Pull Request reviewed, approved, and merged                          | 3/9/2023 @ 11:59 PM  | 75% of assignment grade
+Project review / reflection                                          | 3/21/2023 @ 11:59 PM | 10% of assignment grade
 
 ## Project Setup
 Use the fork-and-branch strategy we discussed earlier in the class to prepare your contribution to

@@ -32,7 +32,7 @@ Work through the to-do list and specifications below to complete the assignment.
      the git-related questions.
 
 ## Due Date 
-Wednesday, 1/25/2021 @ 5:30 PM 
+Thursday, 1/26/2023 @ 5:30 PM 
 
 Our lecture on Wednesday will involve a more in-depth discussion about how GitHub works, and (time
 permitting) should also include an exercise that involves us committing code to a shared repository.

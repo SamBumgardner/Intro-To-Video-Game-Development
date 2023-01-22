@@ -6,7 +6,7 @@ This is a github-friendly abridged version of the [full, formal syllabus](https:
 
 ### Course Information
  * **Course Number:** CSC 303  
- * **Class Meeting Time:** MW 5:30-6:20 PM  
+ * **Class Meeting Time:** TR 5:30-6:20 PM  
  * **Class Location:** Cheek Hall 210   
  * **Course Web Site:** https://github.com/SamBumgardner/Intro-To-Video-Game-Development
 
