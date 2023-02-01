@@ -1,3 +1,6 @@
+# About Our Class
+As a class exercise, we will each use git and GitHub to add our own little autobiography to this file!
+## Kellie Behm
 Hi, I'm Kellie Behm. I'm in my last semester studying actuarial maths with a computer science minor.
 I like to: 
  * bake and cook, I bake a lot of bread
