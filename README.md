@@ -7,7 +7,7 @@
 ## Course Content
  * Class Discussion
  * Class Exercises
-   * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
+   * Feb. 2nd [About Our Class](lectures/exercises/e1_about_our_class.md)
  * Lecture Slides
    * Understanding Git Usage:
      * [2-1: Introducing Git](https://docs.google.com/presentation/d/1QN0vi0XlbL_fbijrf2WZNaS299CwQ7xkjeeiuOovvZM/edit?usp=share_link)
@@ -27,9 +27,8 @@
    * [Graphics and Sound](lectures/haxeflixel/graphics_and_sound.md)
 
 ### Assignments
- * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) -
-   Due Thursday, 1/26/2023 @ 5:30 PM
-
+ * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) - Due Thursday, 1/26/2023 @ 5:30 PM
+ * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Date TBD, after completing necessary lectures.
 ### Projects
  * [Midterm Game Project](projects/midterm.md)
    * **Proposal** due Thursday, 2/24/2023 @ 5:30 PM
