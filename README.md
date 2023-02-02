@@ -10,16 +10,16 @@
    * Jan. 26th [About Our Class](lectures/exercises/e1_about_our_class.md)
  * Lecture Slides
    * Understanding Git Usage:
-     * [2-1: Introducing Git](https://docs.google.com/presentation/d/1mGX1zADfTeWzc-_-zPXXvip5MkeFmzGTAX3hMSvDYXY/edit?usp=sharing)
-     * [2-2: Collaborating with Git](https://docs.google.com/presentation/d/1fWNFHAkDh2oXK_qIt8i9iSiDnyxicIRgQKlp-VgyYDY/edit?usp=sharing)
-     * [2-3: Fork-and-Branch Contribution with Git](https://docs.google.com/presentation/d/1kDT7THm1McMEHkb7dtivV_1u5yDohQHhODZqOeO9hsY/edit?usp=sharing)
+     * [2-1: Introducing Git](https://docs.google.com/presentation/d/1QN0vi0XlbL_fbijrf2WZNaS299CwQ7xkjeeiuOovvZM/edit?usp=share_link)
+     * [2-2: Collaborating with Git](https://docs.google.com/presentation/d/1xE3AszcBsOAS5HydbywynO1RmQbt3cGqyArnXe72dqU/edit?usp=share_link)
+     * [2-3: Fork-and-Branch Contribution with Git](https://docs.google.com/presentation/d/13Fnz_udHkjdPfm_RSW4HKawlVyOa67j5DJY-g8rWdSY/edit?usp=share_link)
    * Introduction to Engines and HaxeFlixel:
-     * [3-1: Introduction to Haxe](https://docs.google.com/presentation/d/1vGgZyPblcR40ZwNqnSl1biyXQIarP_rFbfpXRBvdOVc/edit?usp=sharing)
-     * [3-2: Game Engines](https://docs.google.com/presentation/d/1BVYgPPEwV8UTX37kkWcz8cyLa5FGoHoFkB5DDFMNu8k/edit?usp=sharing)
-     * [3-3: Using HaxeFlixel](https://docs.google.com/presentation/d/1XafnvomMcqsNymR8TkAa1oEMtXFg5bs4JPQiJI9LXAU/edit?usp=sharing)
-     * [3-4: Movement, Collision, and Input in HaxeFlixel](https://docs.google.com/presentation/d/12bjZwBrXex_cqsRUurj6JhhsAAf3mny7ENCq9YzIoDg/edit?usp=sharing)
+     * [3-1: Introduction to Haxe](https://docs.google.com/presentation/d/1kpShoFyIFbfxonTpj4K06XZYBRX3zMqKMucfdLmfeBE/edit?usp=share_link)
+     * [3-2: Game Engines](https://docs.google.com/presentation/d/1PEjY8PG4d2miwxqv_CgOONoBoWzB0d7s_bOX9Rq1e_4/edit?usp=share_link)
+     * [3-3: Using HaxeFlixel](https://docs.google.com/presentation/d/1KcauH7F8k175QmlQzE7LdWM0YsOjGwFcXA9EX6sxH1c/edit?usp=share_link)
+     * [3-4: Movement, Collision, and Input in HaxeFlixel](https://docs.google.com/presentation/d/1H-quSH2PFQtIjC-R_vdoecQUHyxCCAPnoMNhfbW3GYc/edit?usp=share_link)
    * Preparing for Mini Jam:
-     * [4-1: Keys to a Successful Game Jam](https://docs.google.com/presentation/d/1Sc-TCky9k-4dmZdhni7iRWtNxOpMXKyNM8z3cymtUig/edit?usp=sharing)
+     * [4-1: Keys to a Successful Game Jam](https://docs.google.com/presentation/d/1SFv8NfHIxUvhdxwVNfsugnjj3m9fZFEU8QiTLRmfIJY/edit?usp=sharing)
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
