@@ -6,3 +6,10 @@ I like to:
  * bake and cook, I bake a lot of bread
  * watch cartoons and movies
  * play board games and card games with my friends
+ 
+## Aaron Gerbrandt
+I'm Aaron Gerbrandt. I'm a senior studying Computer Science with a Math minor.
+I like to:
+ * Play Video Games
+ * Write code
+ * Play Board Games with my friends
