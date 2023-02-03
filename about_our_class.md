@@ -7,8 +7,9 @@ I like to:
  * watch cartoons and movies
  * play board games and card games with my friends
 ## Owen Plaster
-Hello, I'm Owen Plaster. I'm in the process of spending the rest of this year in Japan, so I'll have a few more semesers after this.
+Hello, I'm Owen Plaster. I'm in the process of spending the rest of this year in Japan, so I'll have a few more semesters after this.
 
 I like to:
+ * listen to music
  * attempt to play music
  * play old computer games
