@@ -7,3 +7,9 @@ I like to go sailing on the weekends, but my true passion is collecting dryer li
  * I like making markdown lists, they're pretty cool.
  * Especially if my IDE supports previewing markdown (Visual Studio Code does)
  * If you're unfamiliar with Markdown, now's a great time to try things out!
+## Quinn Leavitt
+Hey everyone, I'm Quinn.
+I'm graduating this May and I'm working on a jackbox clone in godot as my CSC 450 project.
+ * I like C# and C++
+ * I work for an insurance company fulltime as a web developer
+ * I'm really looking forward to working with everyone on projects this semester
