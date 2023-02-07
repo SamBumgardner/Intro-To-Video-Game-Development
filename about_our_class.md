@@ -1,18 +1,36 @@
 # About Our Class
 As a class exercise, we will each use git and GitHub to add our own little autobiography to this file!
 
-## Example Name
-Hello, I'm Example Name. 
-I like to go sailing on the weekends, but my true passion is collecting dryer lint.
- * I like making markdown lists, they're pretty cool.
- * Especially if my IDE supports previewing markdown (Visual Studio Code does)
- * If you're unfamiliar with Markdown, now's a great time to try things out!
 ## Kellie Behm
 Hi, I'm Kellie Behm. I'm in my last semester studying actuarial maths with a computer science minor.
 I like to: 
  * bake and cook, I bake a lot of bread
  * watch cartoons and movies
  * play board games and card games with my friends
+
+## Owen Plaster
+Hello, I'm Owen Plaster. I'm in the process of spending the rest of this year in Japan, so I'll have a few more semesters after this.
+
+I like to:
+ * listen to music
+ * attempt to play music
+ * play old computer games
+ 
+## Aaron Gerbrandt
+I'm Aaron Gerbrandt. I'm a senior studying Computer Science with a Math minor.
+I like to:
+ * Play Video Games
+ * Write code
+ * Play Board Games with my friends
+
+## Richard Peterson
+Hello!  My name is Richard Peterson and I am a SUPER SENIOR!!  I am majoring in Computer Science with minors in Mathematics and Cyber Security, and a certificate in Web Programming.
+
+I like to: 
+ * Play video games (go figure).
+ * Play the occasional table top game.
+ * Watch TV and read the occasional sci-fi.
+ 
 ## Quinn Leavitt
 Hey everyone, I'm Quinn.
 I'm graduating this May and I'm working on a jackbox clone in godot as my CSC 450 project.
