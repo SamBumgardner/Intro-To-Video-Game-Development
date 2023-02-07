@@ -7,6 +7,14 @@ I like to:
  * bake and cook, I bake a lot of bread
  * watch cartoons and movies
  * play board games and card games with my friends
+
+## Owen Plaster
+Hello, I'm Owen Plaster. I'm in the process of spending the rest of this year in Japan, so I'll have a few more semesters after this.
+
+I like to:
+ * listen to music
+ * attempt to play music
+ * play old computer games
  
 ## Aaron Gerbrandt
 I'm Aaron Gerbrandt. I'm a senior studying Computer Science with a Math minor.
