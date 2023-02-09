@@ -30,3 +30,10 @@ I like to:
  * Play video games (go figure).
  * Play the occasional table top game.
  * Watch TV and read the occasional sci-fi.
+ 
+## Quinn Leavitt
+Hey everyone, I'm Quinn.
+I'm graduating this May and I'm working on a jackbox clone in godot as my CSC 450 project.
+ * I like C# and C++
+ * I work for an insurance company fulltime as a web developer
+ * I'm really looking forward to working with everyone on projects this semester
