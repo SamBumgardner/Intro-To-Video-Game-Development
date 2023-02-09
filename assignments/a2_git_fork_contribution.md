@@ -40,7 +40,7 @@ Work through the to-do list and specifications below to complete the assignment.
  7. Write up a response according to the instructions in **Deliverables** and email it to me.
 
 ## Due Date 
-TBD - After we finish relevant lecture content
+Tuesday, 2/13/2023 @ 5:30 PM 
 
 ## Deliverables 
 Create a file named `<your_name>_a2_review.txt` that responds to the following questions:

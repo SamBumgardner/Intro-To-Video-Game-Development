@@ -28,7 +28,7 @@
 
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) - Due Thursday, 1/26/2023 @ 5:30 PM
- * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Date TBD, after completing necessary lectures.
+ * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Tuesday, 2/13/2023 @ 5:30 PM.
 ### Projects
  * [Midterm Game Project](projects/midterm.md)
    * **Proposal** due Thursday, 2/24/2023 @ 5:30 PM
