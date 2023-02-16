@@ -8,6 +8,7 @@
  * Class Discussion
  * Class Exercises
    * Feb. 2nd [About Our Class](lectures/exercises/e1_about_our_class.md)
+   * Feb. 15th [A Basic HaxeFlixel Project](lectures/exercises/e2_basic_haxeflixel_project.md)
  * Lecture Slides
    * Understanding Git Usage:
      * [2-1: Introducing Git](https://docs.google.com/presentation/d/1QN0vi0XlbL_fbijrf2WZNaS299CwQ7xkjeeiuOovvZM/edit?usp=share_link)
@@ -29,6 +30,7 @@
 ### Assignments
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) - Due Thursday, 1/26/2023 @ 5:30 PM
  * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Tuesday, 2/13/2023 @ 5:30 PM.
+ * [Assignment 3: Creating Heroes with Varied Behavior](assignments/a3_heroes.md) - Due Thursday, 2/23/2023 @ 5:30 PM
 ### Projects
  * [Midterm Game Project](projects/midterm.md)
    * **Proposal** due Thursday, 2/24/2023 @ 5:30 PM
