@@ -19,6 +19,7 @@
      * [3-2: Game Engines](https://docs.google.com/presentation/d/1PEjY8PG4d2miwxqv_CgOONoBoWzB0d7s_bOX9Rq1e_4/edit?usp=share_link)
      * [3-3: Using HaxeFlixel](https://docs.google.com/presentation/d/1KcauH7F8k175QmlQzE7LdWM0YsOjGwFcXA9EX6sxH1c/edit?usp=share_link)
      * [3-4: Movement, Collision, and Input in HaxeFlixel](https://docs.google.com/presentation/d/1H-quSH2PFQtIjC-R_vdoecQUHyxCCAPnoMNhfbW3GYc/edit?usp=share_link)
+     * [3-5: Making Levels in HaxeFlixel](https://docs.google.com/presentation/d/1XUpNuybrJRWdnesp1b4k2LgV9gXAwFeI-KTW0lLzXWc/edit?usp=sharing)
    * Preparing for Mini Jam:
      * [4-1: Keys to a Successful Game Jam](https://docs.google.com/presentation/d/1SFv8NfHIxUvhdxwVNfsugnjj3m9fZFEU8QiTLRmfIJY/edit?usp=sharing)
  * Git
