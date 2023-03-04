@@ -32,13 +32,14 @@
  * [Assignment 1: What do we already know about Git?](assignments/a1_git_review.md) - Due Thursday, 1/26/2023 @ 5:30 PM
  * [Assignment 2: Using the GitHub Fork-and-Branch Contribution Strategy](assignments/a2_git_fork_contribution.md) - Due Tuesday, 2/13/2023 @ 5:30 PM.
  * [Assignment 3: Creating Heroes with Varied Behavior](assignments/a3_heroes.md) - Due Thursday, 2/23/2023 @ 5:30 PM
+ * [Bonus Assignment: Exploring Additional HaxeFlixel Features](assignments/a4_additional_features.md) - Optional, no grade assigned
 ### Projects
  * [Midterm Game Project](projects/midterm.md)
-   * **Proposal** due Thursday, 2/24/2023 @ 5:30 PM
-   * **Progress / Plan Checkpoint** on Tuesday, 2/28/2023 during class
-   * **PR Submittal** due Tuesday, 3/7/2023 @ 11:59
-   * **PR Review, Approval, Merge** due Thursday, 3/9/2023 @ 11:59 PM 
-   * **Project Reflection** due Tuesday, 3/21/2023 @ 11:59 PM (Early Turn-in Recommended)
+   * **Proposal** due Thursday, 3/9/2023 @ 5:30 PM
+   * **Progress / Plan Checkpoint** on Tuesday, 3/14/2023 during class
+   * **PR Submittal** due Tuesday, 3/21/2023 @ 11:59
+   * **PR Review, Approval, Merge** due Thursday, 3/23/2023 @ 11:59 PM 
+   * **Project Reflection** due Tuesday, 3/28/2023 @ 11:59 PM (Early Turn-in Recommended)
  * [Mini Jam Project](projects/mini_jam.md)
  * [Final Project](projects/final.md)
    * [Final Project Proposal](projects/final_project_proposal.md) due Tuesday, 4/19/2023 @ 5:30 PM
