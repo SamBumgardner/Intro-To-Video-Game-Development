@@ -2,7 +2,7 @@
 In this exercise, your task is to read about one of the programming patterns described in the 
 online book [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) and 
 write up your own summary of the programming pattern it describes. We'll share our summaries 
-with one another in-class on **Tuesday, April 6th** and discuss what we've learned.
+with one another in-class on **Thursday, April 6th** and discuss what we've learned.
 
 ## Purpose
 Games can very quickly grow to be unmanagably complex pieces of code. Through this in-class 
@@ -26,7 +26,7 @@ The goals of this assignment are as follows:
  2. Read your selected chapter.
  3. Write a reflection / summary according to the requirements listed in **Deliverables**.
  4. Share the contents of your-write-up with the class.
-    * We'll attempt to do this in-class on **Tuesday, April 6th**
+    * We'll attempt to do this in-class on **Thursday, April 6th**
  5. Turn in your write-up via email to bumgardner125@live.missouristate.edu
  
 ## Deliverables 
