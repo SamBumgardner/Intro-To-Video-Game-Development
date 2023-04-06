@@ -37,3 +37,13 @@ I'm graduating this May and I'm working on a jackbox clone in godot as my CSC 45
  * I like C# and C++
  * I work for an insurance company fulltime as a web developer
  * I'm really looking forward to working with everyone on projects this semester
+
+## Sam Bumgardner
+I'm Sam Bumgardner, the person teaching the course!
+
+My favorite categories of desserts to make are:
+ - pies
+ - cookies
+ - ice cream
+ - cheesecake
+Which are all very bad for me.
