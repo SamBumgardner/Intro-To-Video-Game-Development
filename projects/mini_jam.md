@@ -24,8 +24,8 @@ to reduce pressure, but the timing didn't end up working out in a favorable way 
 
 Assignment                                                                         | Due Date | Grade
 ---------------------------------------------------------------------------------- | -------- | ----------------------
-Completed (or well-attempted and incomplete) game created and submitted to Mini Jam| 4/2/2023 | 50% of assignment grade
-Post-game jam reflection write-up                                                  | 4/6/2023 | 50% of assignment grade
+Completed (or well-attempted and incomplete) game created and submitted to Mini Jam| 4/16/2023 11:59 PM | 50% of assignment grade
+Post-game jam reflection write-up                                                  | 4/18/2023 11:59 PM | 50% of assignment grade
 
 ## Objective
 Participate in [Mini Jam](https://minijamofficial.com/), and get some valuable real-world experience along the way.
@@ -63,7 +63,7 @@ questions:
     Do you prefer one style of project over the other?
 
 To submit the reflection, attach it to an email sent 
-to `Bumgardner125@live.missouristate.edu` with subject `CSC 303 Ludum Dare Reflection`.
+to `Bumgardner125@live.missouristate.edu` with subject `CSC 303 Game Jam Reflection`.
 
 ## Tips for Success
  1. Commit often

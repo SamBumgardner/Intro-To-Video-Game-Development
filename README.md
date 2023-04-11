@@ -23,6 +23,7 @@
      * [3-5: Making Levels in HaxeFlixel](https://docs.google.com/presentation/d/1XUpNuybrJRWdnesp1b4k2LgV9gXAwFeI-KTW0lLzXWc/edit?usp=sharing)
    * Preparing for Mini Jam:
      * [4-1: Keys to a Successful Game Jam](https://docs.google.com/presentation/d/1SFv8NfHIxUvhdxwVNfsugnjj3m9fZFEU8QiTLRmfIJY/edit?usp=sharing)
+     * [4-2: About Godot](https://docs.google.com/presentation/d/1egLyvmv_2L-FAeuhRLuU_EopABUqY38RNpCO5MM0eeA/edit?usp=sharing)
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
@@ -43,7 +44,7 @@
    * **Project Reflection** due Tuesday, 4/4/2023 @ 11:59 PM (Early Turn-in Recommended)
  * [Mini Jam Project](projects/mini_jam.md)
  * [Final Project](projects/final.md)
-   * [Final Project Proposal](projects/final_project_proposal.md) due Tuesday, 4/18/2023 @ 5:30 PM
+   * [Final Project Proposal](projects/final_project_proposal.md) due Thursday, 4/20/2023 @ 5:30 PM
 
 ### Reference Material
  * Git and GitHub
