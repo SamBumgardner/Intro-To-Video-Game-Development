@@ -23,6 +23,7 @@
      * [3-5: Making Levels in HaxeFlixel](https://docs.google.com/presentation/d/1XUpNuybrJRWdnesp1b4k2LgV9gXAwFeI-KTW0lLzXWc/edit?usp=sharing)
    * Preparing for Mini Jam:
      * [4-1: Keys to a Successful Game Jam](https://docs.google.com/presentation/d/1SFv8NfHIxUvhdxwVNfsugnjj3m9fZFEU8QiTLRmfIJY/edit?usp=sharing)
+     * [4-2: About Godot](https://docs.google.com/presentation/d/1egLyvmv_2L-FAeuhRLuU_EopABUqY38RNpCO5MM0eeA/edit?usp=sharing)
  * Git
    * [Git Cheat Sheet](lectures/git/git_cheat_sheet.md)
    * [Git Fork Syncing](lectures/git/git_fork_syncing.md) (how to fix merge conflicts when merging from your fork to the original repository)
