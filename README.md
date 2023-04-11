@@ -44,7 +44,7 @@
    * **Project Reflection** due Tuesday, 4/4/2023 @ 11:59 PM (Early Turn-in Recommended)
  * [Mini Jam Project](projects/mini_jam.md)
  * [Final Project](projects/final.md)
-   * [Final Project Proposal](projects/final_project_proposal.md) due Tuesday, 4/18/2023 @ 5:30 PM
+   * [Final Project Proposal](projects/final_project_proposal.md) due Thursday, 4/20/2023 @ 5:30 PM
 
 ### Reference Material
  * Git and GitHub
